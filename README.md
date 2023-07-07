@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Salud mental, normas y perspectiva de derechos **
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF01_CUIDADO_SALUD_MENTAL/](https://ecored-bogota-dc.github.io/CF01_CUIDADO_SALUD_MENTAL/)
 
 #
 
