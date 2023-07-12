@@ -41,9 +41,107 @@
   padding-bottom: 0px !important
   width: 440px
 
+.tarjeta.tarjeta--azul
+  background-color: #FF8182
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #FFD9D9
+
+.tarjeta.tarjeta--azul1
+  background-color: #AFE8E9
+.tarjeta.tarjeta--azul1.acordion__activo
+  background-color: #CAE2E3
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #FFAD01
+
+.tabs-a__tab
+  background-color: #C6EEEF
+
+.tarjeta.color-acento-botones
+  background-color: #FFECEC
+
+.tarjeta.tarjeta--verde
+  background-image: url(../assets/curso/tema2/img5.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FFAD01
+
+.slyder-a__bullets__item
+  background-color: #DFD599
+.slyder-a__bullets__item--active
+  background-color: #FFAD01
+
+.tabs-b__tab
+  background-color: #D7E3E4
+.tabs-b.color-acento-contenido .tabs-b__tab--active
+  background-color: #FFFFFF
+
+.tabla-a thead
+  background-color: #006A76
+
+.cajon.color-primario
+  background-color: #D2F2F3
+
+.tarjeta-numerada.color-primario
+  border-color: #8EDEE0
+
 .bg
   &-c1
     background-image: url(../assets/curso/intro/img1.svg)
     background-repeat: no-repeat
     margin-inline: -3.2rem !important
     background-size: contain
+  &-c2
+    position: relative
+    top: -20px
+    background-color: #FFC0C0
+    border-bottom-left-radius: 25px
+    border-bottom-right-radius: 25px
+    height: 250px
+  &-c3
+    background-image: url(../assets/curso/tema1/img1.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  &-c4
+    background-color: #E8F9F9
+    margin-inline: -3.2rem !important
+  &-c5
+    background-color: #FFF2F2
+    border-radius: 25px
+  &-c6
+    background-color: #8EDEE0
+    transition: all 0.5s ease
+  &-c6:hover
+    background-color: #FF8182
+    transition: all 0.5s ease
+  &-c7
+    position: relative
+    left: -34px
+    background-color: #FFD9D9
+    border-bottom-right-radius: 25px
+    @media screen and ( max-width: $bp-max-lg )
+      left: 0px
+  &-c8
+    background-image: url(../assets/curso/tema2/img3.svg)
+    background-repeat: no-repeat
+    background-position: center
+    background-size: 1450px
+    @media screen and ( max-width: $bp-max-lg )
+      background-image: none
+      background-color: #C6EEEF
+  &-c9
+    background-image: url(../assets/curso/tema3/img2.svg)
+    background-repeat: no-repeat
+    background-position: left bottom
+  &-c10
+    background-color: #DDF5F6
+    border-radius: 25px
+  &-c11
+    background-color: #B1D1D5
+    border-radius: 25px
+
+.txt
+  &-c1
+    color: $color-acento-contenido
