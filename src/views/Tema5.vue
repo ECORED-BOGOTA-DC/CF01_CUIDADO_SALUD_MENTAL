@@ -67,8 +67,8 @@
             .col-lg-8
               p Existen algunos factores de riesgo asociados a la familia y que inciden en la salud mental:
               p.mb-4 #[b Factores de riesgo]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=s_DM5SaTgwA" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver video
                 i.fas.fa-file-download(style="color: #12263F !important")
 
 </template>

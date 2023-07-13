@@ -17,8 +17,8 @@
             .col-lg-8
               p En el siguiente documento, se puede consultar la normativa:
               p.mb-4 #[b Ley 1616 de 2013]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     p.mb-5 A continuación se reflejan algunas acciones, programas y políticas a tener en cuenta:
     .row.align-items-center.mb-4
@@ -45,8 +45,8 @@
             .col-lg-8
               p En el siguiente enlace podrá revisar la caracterización y medición del estado de salud de la población en el territorio, permitiendo identificar los desafíos y retos en salud en marco de los determinantes sociales en salud.
               p.mb-4 #[b Análisis de Situación de Salud]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/plandecenal/Paginas/ASIS.aspx#:~:text=An%C3%A1lisis%20de%20Situaci%C3%B3n%20de%20Salud,los%20determinantes%20sociales%20en%20salud" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     .row.align-items-center.mb-4
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")

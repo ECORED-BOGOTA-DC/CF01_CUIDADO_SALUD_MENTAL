@@ -179,32 +179,94 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Salud mental comunitaria',
+      referencia:
+        'Ministerio de Salud y Protección Social. Dirección de Promoción y Prevención. (2014). <i>Componente intersectorial y comunitario de la estrategia de gestión del riesgo en salud mental</i>. ROSS.',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/componente-intersectorial-comunitario-estrategia-salud-mental.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Salud mental en Colombia',
+      referencia:
+        'Ministerio de Salud. (s.f.). <i>Dimensión convivencia social y salud mental</i>.',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/plandecenal/Documents/dimensiones/convivenciasocial-ysalud-mental.pdf',
+    },
+    {
+      tema: 'Salud mental en Colombia',
+      referencia:
+        'Ley 1751 de 2015. Ministerio de Salud y de la Protección Social.  Febrero 16 de 2015.',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Ley%201751%20de%202015.pdf',
+    },
+    {
+      tema: 'Trastornos mentales prevalentes',
+      referencia:
+        'Ministerio de Salud y Protección Social & Colombia. COLCIENCIAS. (2015). <i>Encuesta Nacional de Salud Mental 2015</i>.',
+      tipo: 'Otro',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/encuesta-nacional-salud-mental-ensm-2015.zip',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Afrontamiento',
+      significado:
+        'es el conjunto de habilidades, destrezas y recursos psíquicos para actuar frente a un evento estresor que se le pueda presentar a lo largo de la vida.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Crisis',
+      significado: 'la reacción que puede tener una persona ante un evento.',
+    },
+    {
+      termino: 'Demencia',
+      significado:
+        'la demencia es un trastorno cerebral que afecta gravemente la capacidad de una persona de llevar a cabo sus actividades diarias.',
+    },
+    {
+      termino: 'Riesgo psicosocial',
+      significado:
+        'se presenta cuando el individuo posee niveles de estrés que le impiden desempeñar sus funciones de manera adecuada.',
+    },
+    {
+      termino: 'TOC',
+      significado: 'Trastorno Obsesivo Compulsivo.',
+    },
+    {
+      termino: 'TEPT',
+      significado: 'Trastorno de Estrés Post-Traumático.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Abramson, L. Y., Seligman, M. E. y Teasdale, J. D. (1978). <i>Learned hel-plessness in humans: Critique and reformulation</i>. Journal of Abnormal Psychology, 87, p.p. 49-74.',
       link: '',
+    },
+    {
+      referencia:
+        'Blanco, A., Diaz, D. (2005). El bienestar social: su concepto y medición. <i>Psicothema</i>. 2005; 17 (4) p.p. 582-589.',
+      link: '',
+    },
+    {
+      referencia:
+        'Fierro, M., Bustos, A., Molina, C. (2016). <i>Diferencias en la experiencia subjetiva entre depresión unipolar y bipolar</i>. Revista Colombiana de Psiquiatría. Vol. 45. Núm. 3. p.p. 162-169. ',
+      link:
+        'https://www.elsevier.es/es-revista-revista-colombiana-psiquiatria-379-articulo-diferencias-experiencia-subjetiva-entre-depresion-S0034745015001420#:~:text=En%20la%20depresi%C3%B3n%20unipolar%2C%20el,que%20es%20un%20cuerpo%20triste ',
+    },
+    {
+      referencia:
+        'Universidad Autónoma de México (s.f.). <i>Conceptos de crisis</i>. ',
+      link: 'http://132.248.9.195/ptd2013/agosto/0698595/0698595.pdf',
+    },
+    {
+      referencia:
+        'Vázquez, C. Valverde, M. López, C. y Ring, J. (s.f.). <i>Estrategias de afrontamiento</i>. ',
+      link:
+        'http://www.psicosocial.net/historico/index.php?option=com_docman&view=download&alias=94-estrategias-de-afrontamiento&category_slug=trauma-duelo-y-culpa&Itemid=100225',
     },
   ],
   creditos: [
@@ -212,14 +274,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -227,9 +290,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Sandra Patricia Díaz Gutiérrez',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de la Industria la Empresa y los Servicios - Regional Huila',
+        },
+        {
+          nombre: 'Claudia Milena Hernández Naranjo',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Asesora metodológica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable equipo desarrollo curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
@@ -237,14 +322,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Liliana Victoria Morales Gualdron',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          nombre: 'Jhon Jairo Urueta Alvarez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Nombre',

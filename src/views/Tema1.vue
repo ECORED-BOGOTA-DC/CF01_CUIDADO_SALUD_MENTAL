@@ -63,8 +63,8 @@
             .col-lg-8
               p En el siguiente video, se puede visualizar a manera de síntesis dos importantes conceptos para esta temática:
               p.mb-4 #[b ¿Qué es salud y salud mental?:]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver video
                 i.fas.fa-file-download(style="color: #12263F !important")
     p.mb-0 Adicional, existen otros conceptos relevantes para comprender de mejor manera, la salud mental, los cuales se explicarán a continuación.
     Separador
@@ -264,8 +264,8 @@
             .col-lg-8
               p En el siguiente enlace, se puede obtener información actualizada para Colombia:
               p.mb-4 #[b Plan de Beneficios en Salud]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/salud/POS/Paginas/plan-obligatorio-de-salud-pos.aspx" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     Separador
     #t_1_5

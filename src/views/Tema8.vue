@@ -24,8 +24,8 @@
             .col-lg-8
               p A raíz del Covid-19, aparecieron o se intensificaron enfermedades de tipo mental, como en el siguiente artículo:
               p.mb-4 #[b Salud mental, uno de los principales retos de la pandemia]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/Paginas/Salud-mental-uno-de-los-principales-retos-de-la-pandemia.aspx" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     Separador
     #t_8_1

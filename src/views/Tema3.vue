@@ -17,8 +17,8 @@
             .col-lg-8
               p La política puede ser consultada en el siguiente enlace:
               p.mb-4 #[b Política Nacional de Salud Menta]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-nacional-salud-mental.pdf" target="_blank" type="application/pdf")
+                span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     p.mb-5 Para comprender mejor la política, se explican dos principales ejes: las afectaciones en salud mental y los enfoques, los cuales se estudiarán a continuación.
     .row.align-items-center.mb-4
