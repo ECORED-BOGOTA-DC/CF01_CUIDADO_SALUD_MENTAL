@@ -43,7 +43,7 @@
             p.mb-0 Los problemas y trastornos mentales más conocidos en el mundo son: la depresión unipolar, trastorno bipolar, esquizofrenia, epilepsia, consumo problemático de alcohol y otras sustancias psicoactivas, Alzheimer y otras demencias, como el insomnio primario, trastorno obsesivo compulsivo, trastornos por estrés postraumático y trastorno de pánico, estas personas presentan niveles elevados de mortalidad y de discapacidad.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img2.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img2.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Conducta suicida")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -51,14 +51,14 @@
             p.mb-0 Las personas que sufren trastornos mentales y del comportamiento y aquellas que tienen trastornos por consumo de alcohol u otras sustancias psicoactivas, tienen una mayor probabilidad de presentar un comportamiento suicida, al igual que quienes han tenido eventos delicados en su vida.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img3.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img3.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Consumo de sustancias psicoactivas")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Los orígenes del consumo de sustancias psicoactivas son múltiples, se asocia a factores económicos, sociales, biológicos, psicológicos y culturales, de orden comunitario, familiar e individual. El consumo sustancias psicoactivas en la infancia y adolescencia daña el desarrollo cerebral, así mismo, su uso es una causa de riesgo considerable para la salud, lo cual se refleja principalmente en la pérdida de años vividos sin salud, en la mortalidad asociada a eventos como la violencia, enfermedades infecciosas (VIH/SIDA, hepatitis B y C) y crónicas como cirrosis, afecciones cardiovasculares, cáncer enfermedades mentales, entre otras, con efectos desproporcionados en poblaciones específicas como gestantes, habitantes de calle, personas privadas de la libertad y personas que se inyectan drogas.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img4.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img4.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Violencia y convivencia social")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -79,14 +79,14 @@
             p.mb-0 De lo anterior se infiere que existen varias relaciones entre la violencia y la salud mental. Los problemas y trastornos mentales se reconocen como posibles causas de la violencia. La segunda relación señala que algunas de las víctimas de violencia por lo general presentan trastornos emocionales y psicológicos agudos como depresión, ansiedad, como estrés postraumático.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img5.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img5.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Epilepsia")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Los orígenes del consumo de sustancias psicoactivas son múltiples, se asocia a factores económicos, sociales, biológicos, psicológicos y culturales, de orden comunitario, familiar e individual. El consumo sustancias psicoactivas en la infancia y adolescencia daña el desarrollo cerebral, así mismo, su uso es una causa de riesgo considerable para la salud, lo cual se refleja principalmente en la pérdida de años vividos sin salud, en la mortalidad asociada a eventos como la violencia, enfermedades infecciosas (VIH/SIDA, hepatitis B y C) y crónicas como cirrosis, afecciones cardiovasculares, cáncer enfermedades mentales, entre otras, con efectos desproporcionados en poblaciones específicas como gestantes, habitantes de calle, personas privadas de la libertad y personas que se inyectan drogas.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img6.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img6.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
@@ -111,14 +111,14 @@
             p.mb-0 las conveniencias de empleo y otras fuentes de concepción de ingresos, debido a la señalización, exclusión y discriminación que históricamente han vivido.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema3/img7.png', style="width: 150px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img7.png', style="width: 150px" ,alt='Imagen decorativa').m-auto
       .py-4.py-md-5(titulo="Ciclo de vida" :icono="require('@/assets/curso/tema3/img4.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Deduce del vínculo trazado entre desarrollo y derechos, el encausamiento de curso de vida se considera importante desde la aprobación de las trayectorias de vida, los sucesos y transiciones en el vivir de los seres humanos. Admite a su vez, registrando ventanas de oportunidad que inciden en la vida cotidiana de los sujetos en el marco de sus relaciones, la toma de decisiones y su proyecto de vida. Al extender en vínculo con los derechos, y la aceptación del curso de vida de los sujetos individuales y colectivos, constituye un apoyo clave para la comprensión y abordaje tanto de la promoción y sostenimiento de la salud mental como el abordaje de los problemas e inconvenientes mentales; toda vez que es sabido que una misma patología puede originar sintomatología de variadas características en niños, niñas y adolescentes, adultos, o adultos mayores, como ocurre en la depresión o en el riesgo suicida.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema3/img8.png', style="width: 150px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img8.png', style="width: 150px" ,alt='Imagen decorativa').m-auto
       .py-4.py-md-5(titulo="Género" :icono="require('@/assets/curso/tema3/img5.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
@@ -126,7 +126,7 @@
             p.mb-0 Las obligaciones en salud mental son desiguales cuando se examina este enfoque. Es así que en Colombia el mayor riesgo de depresión, ansiedad y conducta suicida lo exponen las mujeres, en tanto que el riesgo de consumo de sustancias psicoactivas y el suicidio consumado es mayor para los hombres.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema3/img9.png', style="width: 150px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img9.png', style="width: 150px" ,alt='Imagen decorativa').m-auto
       .py-4.py-md-5(titulo="Diferencial" :icono="require('@/assets/curso/tema3/img6.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
@@ -134,14 +134,14 @@
             p.mb-0 Junto con el desarrollo del enfoque diferencial, se requiere el enfoque interseccional entendido como la comprensión de los procesos complejos que derivan de la interacción de factores políticos, sociales, culturales, económicos y simbólicos en cada contexto.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema3/img10.png', style="width: 150px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img10.png', style="width: 150px" ,alt='Imagen decorativa').m-auto
       .py-4.py-md-5(titulo="Psicosocial" :icono="require('@/assets/curso/tema3/img7.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Se adopta el enfoque psicosocial como una herramienta de la atención en salud en la Política Nacional de Salud Mental permitiendo examinar la integralidad de las personas teniendo en cuenta el entorno en el que se han desarrollado, el significado que les han dado a estas actividades, lo vivido, el padecimiento que han experimentado y las fortalezas con las que cuentan las personas para recuperarse y materializar sus proyectos de vida. Este planteamiento se materializa en la humanización de la atención en salud mental, para la cual es indispensable la sensibilidad frente a las diferencias de edad, género, cultura e idioma.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema3/img11.png', style="width: 150px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema3/img11.png', style="width: 150px" ,alt='Imagen decorativa').m-auto
 
 </template>
 

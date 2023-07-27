@@ -21,7 +21,7 @@
     .row.justify-content-center.mb-5
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema7/img2.svg', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img2.svg', style="width: 450px" ,alt='Imagen decorativa').m-auto
       .col-lg-7(data-aos="fade-left")
         p Los signos que pueden ayudar a identificar si una perona se encuentra en crisis, son:
         ul.lista-ul.mb-0

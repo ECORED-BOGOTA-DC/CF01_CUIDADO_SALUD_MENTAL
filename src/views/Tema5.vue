@@ -24,7 +24,7 @@
               p.mb-0 La familia como sistema es diferente a cada uno de sus miembros, las acciones de uno de éstos afectarán a los demás como al sistema mismo.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img1.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img1.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Estructura]
@@ -35,7 +35,7 @@
               p.mb-0 En la familia post industrial, las labores domésticas, el trabajo, la educación de los hijos etc., son tareas compartidas entre el hombre y la mujer.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img2.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img2.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Estructura]
@@ -56,7 +56,7 @@
                   p.mb-0 Propagar la cultura.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img3.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img3.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
     .row(data-aos="fade-right")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0

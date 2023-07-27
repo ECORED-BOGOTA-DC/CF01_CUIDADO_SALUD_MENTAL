@@ -34,7 +34,7 @@
         p.mb-0 Los ASIS se convierten en una herramienta facilitadora que permite el reconocimiento de las falencias y las prioridades en materia de salud y también el señalamiento de acciones de intervención y planes y programas ajustados y la valoración del impacto en salud.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema2/img1.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema2/img1.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
     .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
@@ -58,7 +58,7 @@
     .row.align-items-center.mb-3
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema2/img2.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema2/img2.png', style="width: 300px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Estos avalan el pleno ejercicio de la salud mental como parte integral del derecho a la salud de la población que vive en el territorio nacional orientando la atención primaria en salud.
         p.mb-0 Reúnen las acciones intersectoriales orientadas a fomentar las pericias individuales, colectivas y poblacionales que inspeccionan a los sujetos para ejercer y gozar de los derechos y por esta vía desarrollar una salud mental para afrontar los desafíos de la vida, trabajando y realizando relaciones significativas y para contribuir a un tejido comunitario basado en relaciones de poder equitativas, dignas y justas para todos; robusteciendo el tejido que brinda soporte, colectivo familiar y comunitario y articulando las actividades de salud con las iniciativas de los distintos sectores a fin de mejorar el bienestar y la calidad de vida de las personas, de manera que permiten, mayor desarrollo del capital humano.
@@ -91,7 +91,7 @@
                   | Toma de decisiones.
             .col-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/tema2/img4.svg', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img4.svg', style="width: 350px" ,alt='Imagen decorativa').m-auto
             .col-lg-4
               ol.lista-ol--cuadro.lista-ol.mb-0
                 li 
@@ -140,7 +140,7 @@
                 p.mb-0 Remisión oportuna a los servicios sanitarios y sociales.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema2/img3.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img3.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Prevención de los trastornos mentales")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -148,7 +148,7 @@
             p.mb-0 Por lo expuesto anteriormente, se infiere que la oportunidad en la atención conduce a evitar brotes de enfermedad, a disminuir factores de riesgo y a frenar el progreso de los mismos.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema2/img4.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img4.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Atención primaria en salud mental")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -156,7 +156,7 @@
             p.mb-0 Aumenta la oportunidad, el acceso, la aceptabilidad, la calidad, la continuidad y la oferta de servicios de salud mental.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema2/img5.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img5.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
@@ -167,7 +167,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema2/img6.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema2/img6.png', style="width: 300px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Se desarrollan estrategias dirigidas a prever y a atender integralmente aquellos estados temporales o permanentes identificables por el individuo y/o por otras personas en los que las emociones, pensamientos y conductas inciden o arriesgan la condición de tranquilidad o de placer en correlación a sí mismo, con la colectividad y con el contexto, y que varían las competencias de los individuos para reconocer sus cualidades particulares a la hora de enfrentar las tensiones propias de la cotidianidad.
         p De esta manera no le permite producir en forma efectiva en función de la colectividad, de igual forma, incluye la prevención de la violencia en entornos familiares, escolares, comunitarios y laborales y la atención del impacto de las diferentes formas de violencia sobre la salud mental.
@@ -192,7 +192,7 @@
                   p.mb-0 Robustecer la gestión desde la comunidad para ser garantes de la atención integral de los problemas y trastornos mentales y los eventos asociados.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img7.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img7.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Trastornos mentales comunes]
@@ -200,7 +200,7 @@
               p.mb-0 Para el manejo de esta problemática, el plan decenal de salud genera espacios en donde se puedan vincular diferentes actores y sectores de manera efectiva; con el fin de promover procesos de atención en salud en los entornos comunitarios, grupos de apoyo y proyectos enfocados a la comunidad para mejorar la salud mental.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img8.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img8.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Abuso y dependencia de sustancias psicoactivas]
@@ -208,7 +208,7 @@
               p.mb-0 De otra parte, es importante comprender que cuando la dependencia tiene como característica principal no tener dominio sobre la sustancia, el individuo ya se está enfrentando a un problema o trastorno mental asociado al uso recurrente de sustancia psicoactivas.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img9.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img9.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
 
 </template>
 

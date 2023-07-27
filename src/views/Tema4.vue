@@ -9,7 +9,7 @@
     .row.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img1.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema4/img1.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
       .col-lg-7(data-aos="fade-left")
         p Aunque hemos definido inicialmente el riesgo en salud mental, en términos de la probabilidad relativa es cuando ocurre un desenlace negativo en salud mental. Por ende, la evaluación del riesgo debe enfocarse en examinar y analizar, más que en simplemente cuantificar dicha probabilidad.
         p.mb-0 En el estudio del riesgo es posible encontrar:
@@ -95,7 +95,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img4.png', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema4/img4.png', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Existen determinantes estructurales como la educación, el ingreso, la cohesión social, la etnia o el género, y otros determinantes intermedios como las condiciones de vida y de trabajo, el acceso a los alimentos, los comportamientos de las personas y las barreras para adoptar estilos de vida saludables.
         p.mb-0 La Organización Mundial de la Salud define los determinantes sociales de la salud (DSS) como #[b.txt-c1 "las circunstancias en que las personas nacen, crecen, trabajan, viven y envejecen, incluido el conjunto más amplio de fuerzas y sistemas que influyen sobre las condiciones de la vida cotidiana"].
@@ -121,11 +121,11 @@
             p.mb-0 #[b Factores de riesgo psicosocial]: se refiere a las condiciones que hacen presencia en una condición laboral específica que depende de la organización y puede lesionar el estado de salubridad físico y mental del individuo o individuos que laboran en la organización.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema4/img5.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema4/img5.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
     .row.align-items-center.mb-5
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img1.svg', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema4/img1.svg', style="width: 450px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Contenido del trabajo")

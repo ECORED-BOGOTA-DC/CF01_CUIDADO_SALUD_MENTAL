@@ -38,7 +38,7 @@
         p.mb0 Los comportamientos de aislamiento, descuido en la apariencia personal, pueden ser signos de depresión, de trastornos de ansiedad, de trastornos de la alimentación y de adicciones.
       .col-lg-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema8/img1.png', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema8/img1.png', style="width: 280px" ,alt='Imagen decorativa').m-auto
     .row.align-items-center.mb-5(data-aos="fade-down")
       .col-md-3.pe-0.bg-c9
         .p-4
@@ -48,7 +48,7 @@
     .row.justify-content-center.align-items-center.bg-c13.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema8/img2.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema8/img2.svg', style="width: 400px" ,alt='Imagen decorativa').m-auto
       .col-lg-7(data-aos="fade-left")
         ul.lista-ul.mb-0
           li.d-flex
@@ -145,7 +145,7 @@
     .row.align-items-center.mb-3
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema8/img7.png', style="width: 310px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema8/img7.png', style="width: 310px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Se requiere trabajar en la promoción de la salud mental y la prevención de los problemas y trastornos mentales, y desarrollar una estrategia que promueva la resiliencia y el bienestar emocional en los individuos, familias y comunidades. Además, la promoción de la salud mental es vital en países en desarrollo como Colombia, abocados a graves problemáticas psicosociales, debido al largo conflicto armado interno y las frecuentes situaciones de emergencias sociales y naturales que en los últimos años han afectado al país.
         p Las investigaciones desarrolladas en temas de trastornos mentales durante las pasadas décadas han transformado notablemente la práctica psiquiátrica, ofreciendo una mayor calidad de vida a millones de pacientes en todo el mundo. Permitiendo el desarrollo de nuevos antidepresivos y antipsicóticos, con menos efectos secundarios y de más rápida acción, para que las personas puedan retornar al trabajo o estudio.
@@ -189,7 +189,7 @@
             p.mb-0 Acoso escolar.
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema8/img4.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema8/img4.svg', style="width: 400px" ,alt='Imagen decorativa').m-auto
     p.mb-5(data-aos="fade-right") A continuación se relacionan algunas enfermedades mentales identificadas como prevalentes para nuestro país:
     TabsA.color-acento-contenido.mb-5(data-aos="fade-down")
       .tarjeta.color-acento-botones.p-4(titulo="Depresión unipolar")
@@ -198,7 +198,7 @@
             p.mb-0 Trastorno depresivo caracterizado por la aparición de más de un episodio de depresión. En la depresión unipolar, el estado de ánimo se asemeja a la tristeza cotidiana o la que se observa en un duelo. Ese estado de ánimo es menos invasivo que el apagamiento emocional, pues permite al afectado interesarse un poco más en realizar ciertas actividades y se dan momentos en que la tristeza pasa a un segundo plano. 
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img6.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img6.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Trastorno bipolar")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -208,21 +208,21 @@
             p.mb-0 Hay episodios que se pueden clasificar como trastorno bipolar no especificado o trastorno ciclotímico por tener características leves.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img7.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img7.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Esquizofrenia")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 La esquizofrenia es un trastorno mental caracterizado por la existencia de pérdida de contacto con la realidad (psicosis), alucinaciones (por lo general consistentes en oír voces), falsas creencias firmemente sostenidas (delirios), alteraciones del pensamiento y de la conducta, reducción en la expresión emocional, disminución de la motivación, deterioro de la función mental (cognición) y problemas para desenvolverse en la vida de cada día, incluyendo el deterioro del trabajo, las relaciones sociales y el cuidado de uno mismo.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img8.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img8.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Epilepsia")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Consiste en una  crisis convulsiva, es una descarga eléctrica anormal desordenada que sucede en el interior de la sustancia gris cortical cerebral e interrumpe transitoriamente la función encefálica normal. En los casos típicos, una crisis produce una alteración de la conciencia, sensaciones anormales, movimientos involuntarios focales o convulsiones (la contracción involuntaria violenta y difusa de los músculos voluntarios).
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img9.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img9.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Consumo problemático de alcohol y otras sustancias psicoactivas")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -242,7 +242,7 @@
                 p.mb-0 Según la normatividad pueden ser ilegales o legales, por ejemplo, la cocaína es ilegal pero las bebidas alcohólicas son legales.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img10.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img10.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Alzheimer y otras demencias")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -250,7 +250,7 @@
             p.mb-0 El Alzheimer comienza lentamente. Primero afecta las partes del cerebro que controlan el pensamiento, la memoria y el lenguaje. Las personas con el mal pueden tener dificultades para recordar cosas que ocurrieron en forma reciente o los nombres de personas que conocen. Un problema relacionado, el deterioro cognitivo leve, causa más problemas de memoria que los normales en personas de la misma edad.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img11.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img11.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Trastorno obsesivo compulsivo")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -258,7 +258,7 @@
             p.mb-0 En general, el trastorno obsesivo-compulsivo comienza en la adolescencia o cuando se es adulto joven. A menudo, los niños desarrollan TOC a una edad más temprana que las niñas.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img12.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img12.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
     p.mb-5(data-aos="fade-right") Y existen otros trastornos que ya son reconocidos como enfermedades mentales prevalentes:
     TabsB.color-acento-contenido(data-aos="fade-left")
       .py-4.py-md-5(titulo="Trastornos por estrés postraumático" :icono="require('@/assets/curso/tema8/img13.svg')")
@@ -267,14 +267,14 @@
             p.mb-0 Es una afección de salud mental que algunas personas desarrollan tras experimentar o ver algún evento traumático. Este episodio puede poner en peligro la vida, como la guerra, un desastre natural, un accidente automovilístico o una agresión sexual. Pero a veces el evento no es necesariamente peligroso. Por ejemplo, la muerte repentina e inesperada de un ser querido también puede causar TEPT.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema8/img8.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img8.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
       .py-4.py-md-5(titulo="Trastorno de pánico e insomnio primario" :icono="require('@/assets/curso/tema8/img14.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Aproximadamente, el 70% de los pacientes con trastorno de pánico se quejan de insomnio de mantenimiento o de inicio, de pobre calidad de sueño o de sueño fragmentado. El ataque de pánico se puede presentar durante el sueño y en pacientes que sufren ataques nocturnos de pánico. Esta característica de la enfermedad puede predisponer al paciente a sufrir una privación crónica de sueño, debido a que desarrolla una ansiedad anticipatoria, con miedo a la hora de ir a dormir.
           .col-lg-3
             figure
-              img(src='@/assets/curso/tema8/img9.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img9.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
 
 </template>
 

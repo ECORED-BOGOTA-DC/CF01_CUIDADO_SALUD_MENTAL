@@ -9,7 +9,7 @@
     .row.align-items-center.mb-3
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema9/img1.png', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema9/img1.png', style="width: 280px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Cuando se habla de afrontamiento o estrategia de afrontamiento es importante tener en cuenta que en la medida en que el individuo, posea habilidades, destrezas y recursos psíquicos para actuar frente a un evento estresor que se le pueda presentar a lo largo de la vida, esta se convierte en un factor protector o en un factor de riesgo que incide de manera directa en la salud mental del individuo; de tal forma, que el afrontamiento se convierte en el conjunto de esfuerzos de tipo cognitivo y conductual que cambia de manera constante y que se desenvuelve para responder al manejo de las exigencias puntuales, extrínsecas y/o intrínsecas, que son examinadas como excesos y que se desbordan a partir de los recursos del sujeto.
         p.mb-0 Es importante para el individuo desarrollar destrezas para crear estrategias de acuerdo a los eventos que más niveles de estrés le provocan, con el fin de responder de manera adaptativa sin llegar a un desajuste importante en su salud mental.
@@ -19,7 +19,7 @@
         .row
           .col-12.px-0(style="z-index:2")
             figure
-              img(src='@/assets/curso/tema9/img2.png', style="width: 650px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema9/img2.png', style="width: 650px" ,alt='Imagen decorativa').m-auto
           .col-12.bg-c19(style="z-index:1")
             .p-4
               p #[b La resolución de problemas]
@@ -28,7 +28,7 @@
         .row
           .col-12.px-0(style="z-index:2")
             figure
-              img(src='@/assets/curso/tema9/img3.png', style="width: 650px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema9/img3.png', style="width: 650px" ,alt='Imagen decorativa').m-auto
           .col-12.bg-c19(style="z-index:1")
             .p-4
               p #[b La regulación emocional]
@@ -68,11 +68,11 @@
         p.mb-0 En la siguiente figura 1 se observa con detenimiento los estilos de afrontamiento y cómo se comportan ante un evento estresor.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema9/img4.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema9/img4.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       p.mb-0 #[b Figura 1]. Estilos de afrontamiento.
     figure(data-aos="fade-left")
-      img(src='@/assets/curso/tema9/img1.svg', style="width: 1050px" ,alt='Texto que describa la imagen').m-auto
+      img(src='@/assets/curso/tema9/img1.svg', style="width: 1050px" ,alt='Muestra los sucesos amenazantes, corto plazo, repitentes a lo largo del tiempo, más útil para personas invitadoras (minimizadoras), son más efectivas cuando, las personas confrontativas (vigilantes) permiten anticipar planes de acción, ante riesgos futuros, puede costar mayor ansiedad.').m-auto
 
 </template>
 

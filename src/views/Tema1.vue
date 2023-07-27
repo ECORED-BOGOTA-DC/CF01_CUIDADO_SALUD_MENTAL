@@ -74,7 +74,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema1/img5.png', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img5.png', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Se dice que existe Salud Mental Positiva (SMP), cuando el ser humano encuentra balance entre lo que espera de la vida y lo que la vida le ofrece, es decir, la felicidad necesita de la interacción del individuo con el medio ambiente y por tanto tiene en cuenta el instinto, la valoración, la singularidad del individuo y no necesariamente depende de su estado emocional o de sus eventualidades.
         p.mb-0 De acuerdo a lo anterior, se puede inferir que no hay un ser humano que pueda decir “estoy sano” pues el ser humano tiene en esencia la enfermedad y la salud que se expresan acorde a una condición específica; se trata del equilibrio que debe existir entre el componente biológico y ambiental porque son componentes que están íntimamente relacionados, de tal forma que si hay fracaso en el biológico aparecen trastornos que hoy día son explicados a través de las neurociencias.
@@ -93,7 +93,7 @@
         p.mb-0 Existen algunos modelos o propuestas del abordaje de la Salud Mental Positiva, SMP, que aún se encuentran en fase de incubación, pero que brindan herramientas e información para realizar abordaje en materia de promoción y prevención de la salud mental de los individuos pertenecientes a un colectivo social, estos son:
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img6.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img6.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-down")
       .row(titulo="Modelo Jahoda")
         .col-12
@@ -148,7 +148,7 @@
     .row.align-items-center.mb-3
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema1/img7.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img7.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
       .col-lg-7(data-aos="fade-left")
         p.mb-0 Cuando se hace referencia a Salud Mental Comunitaria se deben tener en cuenta todas aquellas acciones encaminadas a realizar atención profesional, fuera de hospitales psiquiátricos, clínicas, y hospitales generales. En realidad, lo que llamamos #[b.txt-c1 “salud comunitaria”] es el programa de salud pública local, planificado en base a los problemas y necesidades de cada comunidad ejecutando con la participación de la comunidad. Se trata de una estrategia para aplicar localmente en los programas de salud pública, y no de una especialidad nueva de la salud pública menos de la medicina.
     p.mb-5(data-aos="fade-right") Teniendo como base lo anterior, se puede concluir que cuando se infiere sobre Salud Mental Comunitaria es necesario comprender que se trata de todos los planes y programas de promoción y prevención basados en los lineamientos y en las políticas públicas de cada país, y está basada en principios fundamentales como:
@@ -188,7 +188,7 @@
                   p.mb-0 La defensa de los derechos de los pacientes debe ser organizada en las comunidades.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema1/img5.svg', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img5.svg', style="width: 450px" ,alt='Imagen decorativa').m-auto
     p.mb-0(data-aos="fade-right") En conclusión, la Salud Mental Comunitaria se convierte en un prototipo que asiste a la reforma psiquiátrica y propone una nueva forma de abordaje del paciente desde la clínica, pero rompiendo con la dualidad individual-social, biológica-psicológica, a partir de una estructura científica que se enfoca en la atención primaria y la sociedad.
     Separador
     #t_1_3
@@ -206,7 +206,7 @@
           .row
             .col-lg-3.mb-5.mb-lg-0(data-aos="fade-right")
               figure
-                img(src='@/assets/curso/tema1/img6.svg', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img6.svg', style="width: 350px" ,alt='Imagen decorativa').m-auto
             .col-lg-8(data-aos="fade-left")
               LineaTiempoC.color-acento-contenido(text-small)
                 .row(titulo="Principio 1")
@@ -253,7 +253,7 @@
         p.mb-0 El gobierno colombiano por medio del Sistema General de Seguridad Social en Salud, está en la obligación de proteger a la población colombiana, en preferencia a los niños, las niñas y adolescentes, la promoción de la salud mental y prevención del trastorno mental, atención integral e integrada que implica el diagnóstico, tratamiento y rehabilitación en salud para todos los trastornos mentales.
       .col-lg-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img9.png', style="width: 270px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img9.png', style="width: 270px" ,alt='Imagen decorativa').m-auto
     .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
@@ -276,25 +276,25 @@
       .col-md-8.col-lg.bg-c6.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img10.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema1/img10.png', style="width: 60px" ,alt='Imagen decorativa')
           p.mb-0 #[b Los principios individuales]
           p.mb-0 Empatía, habilidades sociales, capacidad para afrontar problemas.
       .col-md-8.col-lg.bg-c6.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img11.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema1/img11.png', style="width: 60px" ,alt='Imagen decorativa')
           p.mb-0 #[b Los principios familiares]
           p.mb-0 El respeto, la confianza, las normas y reglas del hogar.
       .col-md-8.col-lg.bg-c6.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img12.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema1/img12.png', style="width: 60px" ,alt='Imagen decorativa')
           p.mb-0 #[b Los principios sociales]
           p.mb-0 La participación en actividades grupales, la reglamentación respecto a las sustancias psicoactivas, el acceso a servicios de salud y educación.
       .col-md-8.col-lg-12.bg-c6.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img13.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema1/img13.png', style="width: 60px" ,alt='Imagen decorativa')
           p.mb-0 #[b Los principios de riesgo]
           p son señales o condiciones individuales, familiares o sociales, que posibilitan o aumentan el consumo de sustancias psicoactivas.
           ul.lista-ul.mb-0
