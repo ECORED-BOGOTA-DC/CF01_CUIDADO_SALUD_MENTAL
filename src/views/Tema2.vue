@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Salud mental en Colombia
-    p.mb-5 Como se ha mencionado anteriormente, existe una normatividad específica en tema de salud mental en Colombia (Ley 1616 de 2013), de tal forma que se busca promover la prevención y rehabilitación de los trastornos mentales por medio de políticas que ayudan como herramientas en el mejoramiento de las condiciones de vida y el desarrollo del individuo en el sistema de salud.
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") Como se ha mencionado anteriormente, existe una normatividad específica en tema de salud mental en Colombia (Ley 1616 de 2013), de tal forma que se busca promover la prevención y rehabilitación de los trastornos mentales por medio de políticas que ayudan como herramientas en el mejoramiento de las condiciones de vida y el desarrollo del individuo en el sistema de salud.
+    .row.mb-5(data-aos="fade-left")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -20,8 +20,8 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
-    p.mb-5 A continuación se reflejan algunas acciones, programas y políticas a tener en cuenta:
-    .row.align-items-center.mb-4
+    p.mb-5(data-aos="fade-right") A continuación se reflejan algunas acciones, programas y políticas a tener en cuenta:
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
@@ -29,13 +29,13 @@
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Plan nacional de salud pública (documento ASIS – dimensión de convivencia y salud mental)
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Dentro del Plan nacional de salud pública, existe el documento ASIS, Análisis de la Situación de Salud, el cual consiste en una serie de procedimientos que se encargan de analizar para determinar, cuantificar e interpretar el perfil salud-enfermedad de un grupo poblacional, teniendo en cuenta el deterioro y las situaciones problémicas de salud, sea que hagan parte de la competencia del sector salud o de otros sectores.
         p.mb-0 Los ASIS se convierten en una herramienta facilitadora que permite el reconocimiento de las falencias y las prioridades en materia de salud y también el señalamiento de acciones de intervención y planes y programas ajustados y la valoración del impacto en salud.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img1.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -48,7 +48,7 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/plandecenal/Paginas/ASIS.aspx#:~:text=An%C3%A1lisis%20de%20Situaci%C3%B3n%20de%20Salud,los%20determinantes%20sociales%20en%20salud" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
@@ -56,14 +56,14 @@
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Componentes y acciones en salud mental
     .row.align-items-center.mb-3
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img2.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Estos avalan el pleno ejercicio de la salud mental como parte integral del derecho a la salud de la población que vive en el territorio nacional orientando la atención primaria en salud.
         p.mb-0 Reúnen las acciones intersectoriales orientadas a fomentar las pericias individuales, colectivas y poblacionales que inspeccionan a los sujetos para ejercer y gozar de los derechos y por esta vía desarrollar una salud mental para afrontar los desafíos de la vida, trabajando y realizando relaciones significativas y para contribuir a un tejido comunitario basado en relaciones de poder equitativas, dignas y justas para todos; robusteciendo el tejido que brinda soporte, colectivo familiar y comunitario y articulando las actividades de salud con las iniciativas de los distintos sectores a fin de mejorar el bienestar y la calidad de vida de las personas, de manera que permiten, mayor desarrollo del capital humano.
-    p.mb-5 En la salud mental se han definido diez habilidades básicas, las cuales son:
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") En la salud mental se han definido diez habilidades básicas, las cuales son:
+    .row.mb-5(data-aos="fade-up")
       .col-12.bg-c8
         .p-4.p-lg-0
           .row.align-items-center.justify-content-center
@@ -114,8 +114,8 @@
                   .lista-ol--cuadro__vineta
                     span 10.
                   | Manejo de la tensión y el estrés.
-    p.mb-5 Es importante tener presente en la salud mental, los siguientes componentes y acciones:
-    TabsA.color-acento-contenido.mb-5
+    p.mb-5(data-aos="fade-right") Es importante tener presente en la salud mental, los siguientes componentes y acciones:
+    TabsA.color-acento-contenido.mb-5(data-aos="fade-left")
       .tarjeta.color-acento-botones.p-4(titulo="Promoción de la salud mental")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -157,7 +157,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img5.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
@@ -165,14 +165,14 @@
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Problemáticas priorizadas
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img6.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Se desarrollan estrategias dirigidas a prever y a atender integralmente aquellos estados temporales o permanentes identificables por el individuo y/o por otras personas en los que las emociones, pensamientos y conductas inciden o arriesgan la condición de tranquilidad o de placer en correlación a sí mismo, con la colectividad y con el contexto, y que varían las competencias de los individuos para reconocer sus cualidades particulares a la hora de enfrentar las tensiones propias de la cotidianidad.
         p De esta manera no le permite producir en forma efectiva en función de la colectividad, de igual forma, incluye la prevención de la violencia en entornos familiares, escolares, comunitarios y laborales y la atención del impacto de las diferentes formas de violencia sobre la salud mental.
         p.mb-0 Por tanto, se pueden mencionar las problemáticas más comunes:
-    .tarjeta.tarjeta--verde
+    .tarjeta.tarjeta--verde(data-aos="fade-right")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center

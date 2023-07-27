@@ -2,19 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
       h1 Violencia
-    .row.bg-c1
+    .row.bg-c1(data-aos="fade-down")
       .col-12
         .p-5
           p.mb-5 La violencia es un tema que incide directamente en la salud mental, en el siguiente video se puede conocer su definición:
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/YfNMsgU1cW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Algunos tipos de violencia son:
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1").mb-5
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/sS6XD9jvnAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5(data-aos="fade-right") Algunos tipos de violencia son:
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1").mb-5(data-aos="fade-left")
       .row(titulo="Violencia física")
         .col-12
           .row.align-items-center
@@ -55,7 +55,7 @@
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema6/img5.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
-    .tarjeta.tarjeta--verde.mb-5
+    .tarjeta.tarjeta--verde.mb-5(data-aos="fade-right")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -101,8 +101,8 @@
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema6/img11.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-5 Dentro de las características de la violencia se pueden encontrar tres principales:
-    .row
+    p.mb-5(data-aos="fade-right") Dentro de las características de la violencia se pueden encontrar tres principales:
+    .row(data-aos="fade-left")
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero

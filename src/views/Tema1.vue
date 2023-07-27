@@ -2,20 +2,20 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Salud mental
-    p.mb-5 Cuando se habla o socializa sobre la temática de salud mental, no se hace referencia a un término en concreto, debido a que es inexacto determinar un solo concepto para salud mental, sin embargo, en el siguiente apartado se partirá del supuesto que un individuo posee salud mental cuando alcanza equilibrio funcional de la actividad psíquica lo que lleva a un “estado de bienestar psicológico” tal como lo ha indicado la Organización Mundial de Salud, en su conceptualización integral de salud.
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+    p.mb-5(data-aos="fade-right") Cuando se habla o socializa sobre la temática de salud mental, no se hace referencia a un término en concreto, debido a que es inexacto determinar un solo concepto para salud mental, sin embargo, en el siguiente apartado se partirá del supuesto que un individuo posee salud mental cuando alcanza equilibrio funcional de la actividad psíquica lo que lleva a un “estado de bienestar psicológico” tal como lo ha indicado la Organización Mundial de Salud, en su conceptualización integral de salud.
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="fade-down")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           h2.mb-0 Pero, ¿de qué se trata esta homeóstasis? ¿Cómo se da una dinámica permanente de la actividad psíquica? ¿Qué variables tienen relevancia en este equilibrio?
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p El concepto “estado de bienestar” implica connotaciones no tan exactas que muestran pasividad, accidentalidad, subjetividad, es decir, algo que le ocurre al sujeto y que le afecta de manera externa, que es parte de sus vivencias y por tanto carece de objetividad, de tal forma que este llamado estado de “bienestar psicológico” aparentemente señala la situación satisfactoria en que está el sujeto en un momento dado.
-    p.mb-5 Teniendo en cuenta lo anterior, #[b.txt-c1 “simboliza el cúmulo de procedimientos que hacen parte de la psiquis humana en donde se pueden desenfundar aspectos de estructura y de dinámica que se convierten en supuestos teóricos que tienen como objetivo explicar esta parte de la realidad del ser humano”]; dicho de otra manera la psiquis del ser humano puede estar dividida en:
-    .row.justify-content-center.mb-3
+    p.mb-5(data-aos="fade-right") Teniendo en cuenta lo anterior, #[b.txt-c1 “simboliza el cúmulo de procedimientos que hacen parte de la psiquis humana en donde se pueden desenfundar aspectos de estructura y de dinámica que se convierten en supuestos teóricos que tienen como objetivo explicar esta parte de la realidad del ser humano”]; dicho de otra manera la psiquis del ser humano puede estar dividida en:
+    .row.justify-content-center.mb-3(data-aos="fade-up")
       .col-9.col-md-5.col-lg.m-2
         .row
           .col-12.px-0(style="z-index:2")
@@ -52,8 +52,8 @@
             .p-4
               p #[b Aspectos metapsicológicos]
               p.mb-0 Hacen referencia a lo espiritual es decir a la capacidad para pensar y para amar.
-    p.mb-5 En conclusión, para apropiar el concepto de salud mental es necesario comprender que esta se da cuando en la esfera psíquica funcionan en equilibrio todos los aspectos anteriormente mencionados (cognición, afectividad, ejecución y metapsicología).
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") En conclusión, para apropiar el concepto de salud mental es necesario comprender que esta se da cuando en la esfera psíquica funcionan en equilibrio todos los aspectos anteriormente mencionados (cognición, afectividad, ejecución y metapsicología).
+    .row.mb-5(data-aos="fade-left")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -66,35 +66,35 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver video
                 i.fas.fa-file-download(style="color: #12263F !important")
-    p.mb-0 Adicional, existen otros conceptos relevantes para comprender de mejor manera, la salud mental, los cuales se explicarán a continuación.
+    p.mb-0(data-aos="fade-right") Adicional, existen otros conceptos relevantes para comprender de mejor manera, la salud mental, los cuales se explicarán a continuación.
     Separador
     #t_1_1
     .titulo-segundo.color-acento-contenido
       h2 1.1 Concepto de salud mental positiva
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/img5.png', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Se dice que existe Salud Mental Positiva (SMP), cuando el ser humano encuentra balance entre lo que espera de la vida y lo que la vida le ofrece, es decir, la felicidad necesita de la interacción del individuo con el medio ambiente y por tanto tiene en cuenta el instinto, la valoración, la singularidad del individuo y no necesariamente depende de su estado emocional o de sus eventualidades.
         p.mb-0 De acuerdo a lo anterior, se puede inferir que no hay un ser humano que pueda decir “estoy sano” pues el ser humano tiene en esencia la enfermedad y la salud que se expresan acorde a una condición específica; se trata del equilibrio que debe existir entre el componente biológico y ambiental porque son componentes que están íntimamente relacionados, de tal forma que si hay fracaso en el biológico aparecen trastornos que hoy día son explicados a través de las neurociencias.
-    p.mb-5 De tal manera, que pueda darse un tratamiento o una intervención ajustadas a la necesidad.
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") De tal manera, que pueda darse un tratamiento o una intervención ajustadas a la necesidad.
+    .row.mb-5(data-aos="fade-down")
       .col-lg-6.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema1/img3.svg', style="width: 550px" ,alt='Componente biológico').m-auto
       .col-lg-6
         figure
           img(src='@/assets/curso/tema1/img4.svg', style="width: 550px" ,alt='Componente ambiental').m-auto
-    p De otra parte, Abarca (2005) la define como: #[b.txt-c1 “La Salud Mental Positiva SMP incorpora los elementos físicos y mentales y las vincula entre estos elementos; por lo que la SMP es un curso dinámico y multidimensional”]; es decir, un ser humano equilibrado no tiene que estar siempre de buen humor, con la visión que todo irá mejor, lo que propone la salud mental positiva es que se pueda entender que como individuo tiene momentos en el que su estado de ánimo cambia y puede sentirse cansado, desanimado y puede tener instantes con pensamientos negativos, pero no existe desajuste alguno que le impida interactuar con los demás sanamente.
+    p(data-aos="fade-right") De otra parte, Abarca (2005) la define como: #[b.txt-c1 “La Salud Mental Positiva SMP incorpora los elementos físicos y mentales y las vincula entre estos elementos; por lo que la SMP es un curso dinámico y multidimensional”]; es decir, un ser humano equilibrado no tiene que estar siempre de buen humor, con la visión que todo irá mejor, lo que propone la salud mental positiva es que se pueda entender que como individuo tiene momentos en el que su estado de ánimo cambia y puede sentirse cansado, desanimado y puede tener instantes con pensamientos negativos, pero no existe desajuste alguno que le impida interactuar con los demás sanamente.
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Es así que se cuenta con resiliencia mental y espiritual que da la oportunidad de gozar de la existencia, de sobreponerse al dolor, a la decepción, a la tristeza. Comprender que un individuo sin necesidad de padecer un trastorno psiquiátrico puede desarrollar estados que afectan su salud mental, pero que tiene la capacidad de aceptarlo y de encontrar la manera de auto- gestionarse de tal forma que puede vencer esos estados de ánimo negativos y lograr un desempeño ajustado dentro del grupo social al que pertenece.
         p.mb-0 Existen algunos modelos o propuestas del abordaje de la Salud Mental Positiva, SMP, que aún se encuentran en fase de incubación, pero que brindan herramientas e información para realizar abordaje en materia de promoción y prevención de la salud mental de los individuos pertenecientes a un colectivo social, estos son:
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img6.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-down")
       .row(titulo="Modelo Jahoda")
         .col-12
           .p-4
@@ -146,13 +146,13 @@
     .titulo-segundo.color-acento-contenido
       h2 1.2 Salud mental comunitaria
     .row.align-items-center.mb-3
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/img7.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mb-0 Cuando se hace referencia a Salud Mental Comunitaria se deben tener en cuenta todas aquellas acciones encaminadas a realizar atención profesional, fuera de hospitales psiquiátricos, clínicas, y hospitales generales. En realidad, lo que llamamos #[b.txt-c1 “salud comunitaria”] es el programa de salud pública local, planificado en base a los problemas y necesidades de cada comunidad ejecutando con la participación de la comunidad. Se trata de una estrategia para aplicar localmente en los programas de salud pública, y no de una especialidad nueva de la salud pública menos de la medicina.
-    p.mb-5 Teniendo como base lo anterior, se puede concluir que cuando se infiere sobre Salud Mental Comunitaria es necesario comprender que se trata de todos los planes y programas de promoción y prevención basados en los lineamientos y en las políticas públicas de cada país, y está basada en principios fundamentales como:
-    .row.bg-c4.mb-5
+    p.mb-5(data-aos="fade-right") Teniendo como base lo anterior, se puede concluir que cuando se infiere sobre Salud Mental Comunitaria es necesario comprender que se trata de todos los planes y programas de promoción y prevención basados en los lineamientos y en las políticas públicas de cada país, y está basada en principios fundamentales como:
+    .row.bg-c4.mb-5(data-aos="fade-left")
       .col-12
         .px-5.pt-4
           .row.align-items-center
@@ -189,12 +189,12 @@
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema1/img5.svg', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-0 En conclusión, la Salud Mental Comunitaria se convierte en un prototipo que asiste a la reforma psiquiátrica y propone una nueva forma de abordaje del paciente desde la clínica, pero rompiendo con la dualidad individual-social, biológica-psicológica, a partir de una estructura científica que se enfoca en la atención primaria y la sociedad.
+    p.mb-0(data-aos="fade-right") En conclusión, la Salud Mental Comunitaria se convierte en un prototipo que asiste a la reforma psiquiátrica y propone una nueva forma de abordaje del paciente desde la clínica, pero rompiendo con la dualidad individual-social, biológica-psicológica, a partir de una estructura científica que se enfoca en la atención primaria y la sociedad.
     Separador
     #t_1_3
     .titulo-segundo.color-acento-contenido
       h2 1.3 Derechos en salud mental
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade-down")
       .col-md-auto.pe-md-0.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/tema1/img8.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
@@ -204,10 +204,10 @@
       .col-12.bg-c5
         .p-4
           .row
-            .col-lg-3.mb-5.mb-lg-0
+            .col-lg-3.mb-5.mb-lg-0(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/tema1/img6.svg', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
-            .col-lg-8
+            .col-lg-8(data-aos="fade-left")
               LineaTiempoC.color-acento-contenido(text-small)
                 .row(titulo="Principio 1")
                   .col-12
@@ -247,14 +247,14 @@
     .titulo-segundo.color-acento-contenido
       h2 1.4 Plan de beneficios en salud mental
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p El plan de beneficios en salud mental con cargo a las UPC (Unidad de Pago por Capitación), es el conjunto de servicios y tecnologías en salud a que tiene derecho todo afiliado al sistema general de seguridad social y cuyo servicio debe ser garantizado por las EPS.
         p Comprende el acceso a los servicios de salud de manera oportuna, eficaz y con calidad para la preservación, el mejoramiento y la promoción de la salud. El Estado favorecerá políticas para asegurar la igualdad de trato y oportunidades en el acceso a las actividades de promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliación para todas las personas.
         p.mb-0 El gobierno colombiano por medio del Sistema General de Seguridad Social en Salud, está en la obligación de proteger a la población colombiana, en preferencia a los niños, las niñas y adolescentes, la promoción de la salud mental y prevención del trastorno mental, atención integral e integrada que implica el diagnóstico, tratamiento y rehabilitación en salud para todos los trastornos mentales.
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img9.png', style="width: 270px" ,alt='Texto que describa la imagen').m-auto
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -271,8 +271,8 @@
     #t_1_5
     .titulo-segundo.color-acento-contenido
       h2 1.5 Atención integral a personas que consumen sustancias psicoactivas
-    p.mb-5 El Ministerio de Salud y Protección Social, por medio de la implementación del Plan Nacional de Promoción de la Salud, Prevención y Atención al Consumo de Sustancias Psicoactivas 2014-2021, busca disminuir el volumen del consumo de drogas y sus consecuencias adversas; por ende se hace necesario tener en cuenta que existen principios protectores los cuales son características o atributos individuales, familiares o sociales, que reducen la posibilidad de uso, abuso o dependencia de las sustancias psicoactivas. Entre ellos se tienen:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") El Ministerio de Salud y Protección Social, por medio de la implementación del Plan Nacional de Promoción de la Salud, Prevención y Atención al Consumo de Sustancias Psicoactivas 2014-2021, busca disminuir el volumen del consumo de drogas y sus consecuencias adversas; por ende se hace necesario tener en cuenta que existen principios protectores los cuales son características o atributos individuales, familiares o sociales, que reducen la posibilidad de uso, abuso o dependencia de las sustancias psicoactivas. Entre ellos se tienen:
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-8.col-lg.bg-c6.m-2
         .p-4
           figure.mb-4
@@ -310,15 +310,15 @@
               i.fas.fa-check-circle(style="color: #FFF2F2")
               |
               p.mb-0 #[b A nivel social se encuentran]: bajo apoyo de redes sociales, existencias y uso de las sustancias psicoactivas, violencias en el entorno escolar y social.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 La ruta de atención en salud mental (Ley 1616 de 2013, Resolución 4886)
-    p.mb-5 Esta ruta es concebida para la atención Integral frente al uso, abuso y dependencia de sustancias psicoactivas, allí se establecen los criterios para la activación de la misma. A continuación, se hace una breve descripción del proceso:
-    .row.bg-c4
+    p.mb-5(data-aos="fade-right") Esta ruta es concebida para la atención Integral frente al uso, abuso y dependencia de sustancias psicoactivas, allí se establecen los criterios para la activación de la misma. A continuación, se hace una breve descripción del proceso:
+    .row.bg-c4(data-aos="fade-left")
       .col-12
         .p-5
           .row.justify-content-center

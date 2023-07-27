@@ -2,19 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 8
       h1 Trastornos mentales prevalentes
-    .row.bg-c1
+    .row.bg-c1(data-aos="fade-right")
       .col-12
         .p-5
           p.mb-5 En el siguiente video podrá identificar los trastornos mentales prevalentes, según salud mental:
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/YfNMsgU1cW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Con base en lo anterior se puede tener claridad sobre los trastornos prevalentes, pero no hay que olvidar que a raíz del Covid-19, aparecieron o se intensificaron enfermedades de tipo mental, como en el siguiente artículo, donde se destaca la importancia que tiene la salud mental para el gobierno nacional, no solo con el enfoque para el individuo, sino también para las familias y la sociedad.
-    .row
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/ZDy1oIMM_Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5(data-aos="fade-down") Con base en lo anterior se puede tener claridad sobre los trastornos prevalentes, pero no hay que olvidar que a raíz del Covid-19, aparecieron o se intensificaron enfermedades de tipo mental, como en el siguiente artículo, donde se destaca la importancia que tiene la salud mental para el gobierno nacional, no solo con el enfoque para el individuo, sino también para las familias y la sociedad.
+    .row(data-aos="fade-left")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -32,24 +32,24 @@
     .titulo-segundo.color-acento-contenido
       h2 8.1 Signos de alarma
     .row.align-items-center.mb-3
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p Un problema de salud mental se transforma en enfermedad cuando los signos y síntomas dejan de ser transitorios, se instalan de manera permanente, generan situaciones de confusión e inciden en la capacidad para funcionar de manera ajustada en la sociedad.
         p Un trastorno de salud mental o una enfermedad mental, tiene que ver con múltiples afecciones mentales, como por ejemplo aquellos que afectan el estado de ánimo como: tristeza, melancolía sin motivo aparente, baja estima, entre otras situaciones. Así también pueden provocar distorsiones de pensamiento al tener pensamientos e ideas negativas constantes, que generan un alto sentimiento de persecución o deseos de hacer algo que atente en contra de otras u otras personas, como la propia vida.
         p.mb0 Los comportamientos de aislamiento, descuido en la apariencia personal, pueden ser signos de depresión, de trastornos de ansiedad, de trastornos de la alimentación y de adicciones.
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema8/img1.png', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade-down")
       .col-md-3.pe-0.bg-c9
         .p-4
           h3.mb-0 Pero… ¿cómo se identifican estos signos y síntomas de alarma?
       .col
         p.mb-0 Se hace necesario identificar cambios en los pensamientos, sentimientos y emociones, porque ellos varían de acuerdo al trastorno o enfermedad mental que el individuo está desarrollando; a continuación se relacionan algunos síntomas y signos que son fácilmente identificables y para los cuales no se hace necesario ser experto en el área de la psicología o la psiquiatría, en ocasiones basta con tener capacidad de observación y autoobservación si se trata de uno mismo.
     .row.justify-content-center.align-items-center.bg-c13.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema8/img2.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         ul.lista-ul.mb-0
           li.d-flex
             i.fas.fa-check-circle(style="color: #FF8182")
@@ -87,8 +87,8 @@
             i.fas.fa-check-circle(style="color: #FF8182")
             |
             p.mb-0 Consumo de alcohol o sustancias, ideas suicidas.
-    p.mb-5 Es relevante mencionar que en ocasiones estas afecciones en la salud mental aparecen como síntomas físicos, dolores musculares, dolores de estómago, dolor de cabeza, afecciones del sistema digestivo, sensación de ahogamiento, es lo que se conoce como somatización.
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") Es relevante mencionar que en ocasiones estas afecciones en la salud mental aparecen como síntomas físicos, dolores musculares, dolores de estómago, dolor de cabeza, afecciones del sistema digestivo, sensación de ahogamiento, es lo que se conoce como somatización.
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -98,13 +98,13 @@
             p.mb-0 #[b.txt-c1 ¿Cuándo debe consultarse al médico o especialista?]
               br
               | Siempre que el individuo logre realizar un proceso de auto observación adecuado y pueda verificar uno o más de los signos y síntomas anteriormente mencionados es importante consultar a su médico.
-    p.mb-0 En Colombia existe la atención primaria en salud, y el personal vinculado a esta atención se encuentra entrenado para reconocer una situación problémica de salud mental para derivarlo al profesional especializado correspondiente, es importante comprender que estas afecciones no sanan por sí solas y necesitan de un plan o manejo especial que incluya el diagnóstico tratamiento y monitoreo adecuado.
+    p.mb-0(data-aos="fade-right") En Colombia existe la atención primaria en salud, y el personal vinculado a esta atención se encuentra entrenado para reconocer una situación problémica de salud mental para derivarlo al profesional especializado correspondiente, es importante comprender que estas afecciones no sanan por sí solas y necesitan de un plan o manejo especial que incluya el diagnóstico tratamiento y monitoreo adecuado.
     Separador
     #t_8_2
     .titulo-segundo.color-acento-contenido
       h2 8.2 Conductas asociadas
-    p.mb-5 Las personas cambian su comportamiento según su estado de ánimo. Cada ser humano varía día a día, dependiendo de las circunstancias. Sin embargo, un gran cambio repentino en la personalidad y/o en la conducta en particular, si no está relacionado con algún acontecimiento, este indica un problema. Estos cambios de comportamiento se pueden clasificar en alguno de los siguientes:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") Las personas cambian su comportamiento según su estado de ánimo. Cada ser humano varía día a día, dependiendo de las circunstancias. Sin embargo, un gran cambio repentino en la personalidad y/o en la conducta en particular, si no está relacionado con algún acontecimiento, este indica un problema. Estos cambios de comportamiento se pueden clasificar en alguno de los siguientes:
+    .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-md-6.col-lg.m-2
         .row.align-items-center
           .col-auto(style="z-index: 2")
@@ -137,22 +137,22 @@
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Animo extremo.]
-    p.mb-0 Estas categorías no son trastornos. Para estos síntomas los profesionales de la salud mental organizan diferentes tipologías al detectar estos pensamientos, discursos y conductas anormales del paciente. Una persona afectada puede presentar más de un tipo de cambio. Por ejemplo, las personas que presentan confusión debido a interacciones entre fármacos presentan a menudo alucinaciones o delirios persistentes.
+    p.mb-0(data-aos="fade-right") Estas categorías no son trastornos. Para estos síntomas los profesionales de la salud mental organizan diferentes tipologías al detectar estos pensamientos, discursos y conductas anormales del paciente. Una persona afectada puede presentar más de un tipo de cambio. Por ejemplo, las personas que presentan confusión debido a interacciones entre fármacos presentan a menudo alucinaciones o delirios persistentes.
     Separador
     #t_8_3
     .titulo-segundo.color-acento-contenido
       h2 8.3 Intervención primaria
     .row.align-items-center.mb-3
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema8/img7.png', style="width: 310px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Se requiere trabajar en la promoción de la salud mental y la prevención de los problemas y trastornos mentales, y desarrollar una estrategia que promueva la resiliencia y el bienestar emocional en los individuos, familias y comunidades. Además, la promoción de la salud mental es vital en países en desarrollo como Colombia, abocados a graves problemáticas psicosociales, debido al largo conflicto armado interno y las frecuentes situaciones de emergencias sociales y naturales que en los últimos años han afectado al país.
         p Las investigaciones desarrolladas en temas de trastornos mentales durante las pasadas décadas han transformado notablemente la práctica psiquiátrica, ofreciendo una mayor calidad de vida a millones de pacientes en todo el mundo. Permitiendo el desarrollo de nuevos antidepresivos y antipsicóticos, con menos efectos secundarios y de más rápida acción, para que las personas puedan retornar al trabajo o estudio.
         p.mb-0 Los síndromes parecidos al Parkinson son menos frecuentes, los pacientes ya no son tan estigmatizados y las personas afectadas por los trastornos psicóticos pueden ser tratadas sin hospitalización, o con cortas permanencias en unidades de salud mental.
-    p.mb-5 Se tiene como objetivo en la promoción de la salud y la prevención de la enfermedad: #[b.txt-c1 “Disminuir el riesgo de contraer alguna enfermedad”]. En este nivel se toman todas las medidas para mantener la salud mental de la persona.
+    p.mb-5(data-aos="fade-right") Se tiene como objetivo en la promoción de la salud y la prevención de la enfermedad: #[b.txt-c1 “Disminuir el riesgo de contraer alguna enfermedad”]. En este nivel se toman todas las medidas para mantener la salud mental de la persona.
     .row.justify-content-center.align-items-center.bg-c15.mb-5
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right")
         p Las acciones deben centrarse en transformar los factores de riesgo de la comunidad. Algunas actuaciones serían sobre:
         ul.lista-ul.mb-0
           li.d-flex
@@ -187,11 +187,11 @@
             i.fas.fa-check-circle(style="color: #FF8182")
             |
             p.mb-0 Acoso escolar.
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema8/img4.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-5 A continuación se relacionan algunas enfermedades mentales identificadas como prevalentes para nuestro país:
-    TabsA.color-acento-contenido.mb-5
+    p.mb-5(data-aos="fade-right") A continuación se relacionan algunas enfermedades mentales identificadas como prevalentes para nuestro país:
+    TabsA.color-acento-contenido.mb-5(data-aos="fade-down")
       .tarjeta.color-acento-botones.p-4(titulo="Depresión unipolar")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -259,8 +259,8 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema8/img12.svg', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
-    p.mb-5 Y existen otros trastornos que ya son reconocidos como enfermedades mentales prevalentes:
-    TabsB.color-acento-contenido
+    p.mb-5(data-aos="fade-right") Y existen otros trastornos que ya son reconocidos como enfermedades mentales prevalentes:
+    TabsB.color-acento-contenido(data-aos="fade-left")
       .py-4.py-md-5(titulo="Trastornos por estrés postraumático" :icono="require('@/assets/curso/tema8/img13.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0

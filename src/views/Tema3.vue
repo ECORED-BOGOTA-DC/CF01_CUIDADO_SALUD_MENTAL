@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Política Nacional de Salud Mental
-    p.mb-5 La Política Nacional de Salud Mental tiene como objetivo promover la salud mental como elemento integral de la garantía del derecho a la salud de todas las personas, familias y comunidades, entendidos como sujetos individuales y colectivos, para el desarrollo integral y la reducción de riesgos asociados a los problemas y trastornos mentales, el suicidio, las violencias interpersonales y la epilepsia.
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") La Política Nacional de Salud Mental tiene como objetivo promover la salud mental como elemento integral de la garantía del derecho a la salud de todas las personas, familias y comunidades, entendidos como sujetos individuales y colectivos, para el desarrollo integral y la reducción de riesgos asociados a los problemas y trastornos mentales, el suicidio, las violencias interpersonales y la epilepsia.
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -20,22 +20,22 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-nacional-salud-mental.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
-    p.mb-5 Para comprender mejor la política, se explican dos principales ejes: las afectaciones en salud mental y los enfoques, los cuales se estudiarán a continuación.
-    .row.align-items-center.mb-4
+    p.mb-5(data-aos="fade-right") Para comprender mejor la política, se explican dos principales ejes: las afectaciones en salud mental y los enfoques, los cuales se estudiarán a continuación.
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Afectaciones en salud mental
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-left")
       .col-md-auto.pe-md-0.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
       .col
         p.mb-0 Las afectaciones en salud mental en Colombia atentan especialmente a niños, adolescentes y adultos jóvenes, situación que empeora en gran medida el pronóstico, la productividad académica y económica de la población y en últimas, el capital global, que incluye los factores personales, simbólicos, culturales y relacionales.
-    p.mb-5 En Colombia las afectaciones más relevantes son:
-    TabsA.color-acento-contenido.mb-5
+    p.mb-5(data-aos="fade-right") En Colombia las afectaciones más relevantes son:
+    TabsA.color-acento-contenido.mb-5(data-aos="fade-down")
       .tarjeta.color-acento-botones.p-4(titulo="Problemas y trastornos mentales")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -87,22 +87,22 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img6.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Enfoques
-    p.mb-4 Las políticas públicas deben revelar las pretensiones de una sociedad, por lo que la Política Nacional de Salud Mental se apoya en la necesidad de garantizar los derechos y libertades de todos los colombianos.
-    .row.align-items-center.mb-4
+    p.mb-4(data-aos="fade-right") Las políticas públicas deben revelar las pretensiones de una sociedad, por lo que la Política Nacional de Salud Mental se apoya en la necesidad de garantizar los derechos y libertades de todos los colombianos.
+    .row.align-items-center.mb-4(data-aos="fade-left")
       .col-md-3.pe-0.bg-c9
         .p-4
           h3.mb-0 La salud mental es un derecho que se debe exigir.
       .col
         p.mb-0 La Política Nacional de Salud Mental exhorta a las instituciones y profesionales que prestan servicios en el campo de la salud mental, a beneficiar programas de atención basados en la comunidad y a permitir la integración de las personas al medio social al que pertenecen. Este tipo de abordajes tendrá prioridad sobre cualquier otro.
-    p.mb-5 Los diferentes enfoques son:
-    TabsB.color-acento-contenido
+    p.mb-5(data-aos="fade-right") Los diferentes enfoques son:
+    TabsB.color-acento-contenido(data-aos="fade-left")
       .py-4.py-md-5(titulo="Derechos" :icono="require('@/assets/curso/tema3/img3.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0

@@ -2,19 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
       h1 Familia
-    .row.bg-c1
+    .row.bg-c1(data-aos="fade-down")
       .col-12
         .p-5
           p.mb-5 El siguiente video presenta una breve explicación del concepto de familia y lo importante que es para la salud mental del ser humano.
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/YfNMsgU1cW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Al momento de referirse a familia, es importante identificar la clase, estructura y su función social:
-    .tarjeta.tarjeta--verde.mb-5
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/RGDr78oYEgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5(data-aos="fade-right") Al momento de referirse a familia, es importante identificar la clase, estructura y su función social:
+    .tarjeta.tarjeta--verde.mb-5(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -57,7 +57,7 @@
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema5/img3.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
-    .row
+    .row(data-aos="fade-right")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
