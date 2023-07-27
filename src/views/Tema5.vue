@@ -63,7 +63,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema5/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p Existen algunos factores de riesgo asociados a la familia y que inciden en la salud mental:
               p.mb-4 #[b Factores de riesgo]

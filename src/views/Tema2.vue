@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema2/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente documento, se puede consultar la normativa:
               p.mb-4 #[b Ley 1616 de 2013]
@@ -24,7 +24,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Plan nacional de salud pública (documento ASIS – dimensión de convivencia y salud mental)
@@ -41,7 +41,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema2/img2.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img2.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente enlace podrá revisar la caracterización y medición del estado de salud de la población en el territorio, permitiendo identificar los desafíos y retos en salud en marco de los determinantes sociales en salud.
               p.mb-4 #[b Análisis de Situación de Salud]
@@ -51,7 +51,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Componentes y acciones en salud mental
@@ -160,7 +160,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Problemáticas priorizadas

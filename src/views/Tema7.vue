@@ -9,7 +9,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-md-auto.pe-md-0.mb-4.mb-md-0
         figure
-          img(src='@/assets/curso/tema7/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img1.png', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 Una crisis psicológica en términos de salud mental, no se refiere necesariamente a un evento traumático o una situación, sino a la reacción que puede tener una persona ante un evento. Una persona puede verse profundamente afectada profundamente por un evento mientras que otra persona sufre pocos o ningún efecto adverso.
     p.mb-5(data-aos="fade-right") Existen varias definiciones y enfoques del concepto de crisis, dependiendo del tiempo:

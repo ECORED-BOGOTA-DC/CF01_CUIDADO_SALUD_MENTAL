@@ -20,7 +20,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema8/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema8/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p A raíz del Covid-19, aparecieron o se intensificaron enfermedades de tipo mental, como en el siguiente artículo:
               p.mb-4 #[b Salud mental, uno de los principales retos de la pandemia]
@@ -109,7 +109,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img3.png', style="width: 80px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img3.png', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Confusión.]
@@ -117,7 +117,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img4.png', style="width: 80px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img4.png', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Delirio.]
@@ -125,7 +125,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img5.png', style="width: 80px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img5.png', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Alucinaciones.]
@@ -133,7 +133,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img6.png', style="width: 80px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img6.png', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Animo extremo.]

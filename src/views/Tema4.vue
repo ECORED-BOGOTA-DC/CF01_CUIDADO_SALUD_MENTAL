@@ -16,7 +16,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Factor de riesgo
@@ -27,7 +27,7 @@
           .row.align-items-center
             .col-auto
               figure
-                img(src='@/assets/curso/tema4/img2.png', style="width: 50px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema4/img2.png', style="width: 50px" ,alt='').m-auto
             .col
               p #[b Biológicos]
               p.mb-0 sexo, edad, cociente intelectual, temperamento, genética.
@@ -36,14 +36,14 @@
           .row.align-items-center
             .col-auto
               figure
-                img(src='@/assets/curso/tema4/img3.png', style="width: 50px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema4/img3.png', style="width: 50px" ,alt='').m-auto
             .col
               p #[b Ambientales]
               p.mb-0 factores perinatales, nivel de educación, familia y relaciones sociales y acontecimientos estresantes.
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Factor protector
@@ -88,7 +88,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Determinantes sociales
@@ -102,7 +102,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Riesgo psicosocial

@@ -20,7 +20,7 @@
         .row
           .col-12.px-0(style="z-index:2")
             figure
-              img(src='@/assets/curso/tema1/img1.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema1/img1.png', style="width: 450px" ,alt='').m-auto
           .col-12.bg-c2(style="z-index:1")
             .p-4
               p #[b Aspectos cognitivos]
@@ -29,7 +29,7 @@
         .row
           .col-12.px-0(style="z-index:2")
             figure
-              img(src='@/assets/curso/tema1/img2.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema1/img2.png', style="width: 450px" ,alt='').m-auto
           .col-12.bg-c2(style="z-index:1")
             .p-4
               p #[b Aspectos afectivos]
@@ -38,7 +38,7 @@
         .row
           .col-12.px-0(style="z-index:2")
             figure
-              img(src='@/assets/curso/tema1/img3.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema1/img3.png', style="width: 450px" ,alt='').m-auto
           .col-12.bg-c2(style="z-index:1")
             .p-4
               p #[b Aspectos ejecutivos]
@@ -47,7 +47,7 @@
         .row
           .col-12.px-0(style="z-index:2")
             figure
-              img(src='@/assets/curso/tema1/img4.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema1/img4.png', style="width: 450px" ,alt='').m-auto
           .col-12.bg-c2(style="z-index:1")
             .p-4
               p #[b Aspectos metapsicológicos]
@@ -59,7 +59,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema1/img2.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img2.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente video, se puede visualizar a manera de síntesis dos importantes conceptos para esta temática:
               p.mb-4 #[b ¿Qué es salud y salud mental?:]
@@ -197,7 +197,7 @@
     .row.align-items-center.mb-5(data-aos="fade-down")
       .col-md-auto.pe-md-0.mb-4.mb-md-0
         figure
-          img(src='@/assets/curso/tema1/img8.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img8.png', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 Para comprender la evolución en #[b #[i “derechos en salud mental”]] es necesario revisar la siguiente línea de hechos cronológicos que fundamentan las bases para la normativa en esta importante temática que se ha desarrollado a nivel mundial.
     .row
@@ -260,7 +260,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema1/img7.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img7.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente enlace, se puede obtener información actualizada para Colombia:
               p.mb-4 #[b Plan de Beneficios en Salud]
@@ -313,7 +313,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 La ruta de atención en salud mental (Ley 1616 de 2013, Resolución 4886)
@@ -326,7 +326,7 @@
               ImagenInfografica.color-secundario
                 template(v-slot:imagen)
                   figure
-                    img(src='@/assets/curso/tema1/img9.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema1/img9.svg', alt='')
                 .tarjeta.color-acento-botones.p-3(x="33%" y="40%" numero="+")
                   p.mb-0 Familia, trabajadores de la salud, líderes comunitarios, comunidad en general, instituciones educativas, instituciones públicas o privadas.
                 .tarjeta.color-acento-botones.p-3(x="67%" y="40%" numero="+")

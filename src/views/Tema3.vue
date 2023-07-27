@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema3/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema3/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p La política puede ser consultada en el siguiente enlace:
               p.mb-4 #[b Política Nacional de Salud Menta]
@@ -24,14 +24,14 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Afectaciones en salud mental
     .row.align-items-center.mb-4(data-aos="fade-left")
       .col-md-auto.pe-md-0.mb-4.mb-md-0
         figure
-          img(src='@/assets/curso/tema3/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema3/img1.png', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 Las afectaciones en salud mental en Colombia atentan especialmente a niños, adolescentes y adultos jóvenes, situación que empeora en gran medida el pronóstico, la productividad académica y económica de la población y en últimas, el capital global, que incluye los factores personales, simbólicos, culturales y relacionales.
     p.mb-5(data-aos="fade-right") En Colombia las afectaciones más relevantes son:
@@ -90,7 +90,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Enfoques

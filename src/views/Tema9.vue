@@ -58,7 +58,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 Estilos de afrontamiento y factor protector
