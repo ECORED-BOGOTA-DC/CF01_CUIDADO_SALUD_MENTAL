@@ -55,6 +55,7 @@
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema6/img5.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
+    p.mb-5 Y las modalidades o formas de violencia, más evidenciadas en nuestro país son:
     .tarjeta.tarjeta--verde.mb-5(data-aos="fade-right")
       .p-4.p-lg-5
         SlyderA(tipo="b")
@@ -82,7 +83,7 @@
                 img(src='@/assets/curso/tema6/img8.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p #[b Contra la libertad productiva]
+              p #[b Contra la libertad reproductiva]
               p.mb-0 Esta tiene que ver con las actuaciones que violen el derecho de la mujer a tener información oportuna para poder decidir de forma libre y responsable si desea tener hijos o no, en ese caso al número de veces que quiere estar embarazada, o a los espacios entre cada nacimiento, esta puede presentarse cuando su compañero le impide el uso de métodos anticonceptivos o contraceptivos, o cuando se impone un método en lugar de brindar la información pertinente para que la mujer pueda elegir de acuerdo a las diferentes alternativas.
             .col-lg-5
               figure
@@ -102,7 +103,7 @@
               figure
                 img(src='@/assets/curso/tema6/img11.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
     p.mb-5(data-aos="fade-right") Dentro de las características de la violencia se pueden encontrar tres principales:
-    .row(data-aos="fade-left")
+    .row.justify-content-center(data-aos="fade-left")
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero

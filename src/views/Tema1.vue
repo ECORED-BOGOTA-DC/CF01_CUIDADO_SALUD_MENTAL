@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Salud mental
-    p.mb-5(data-aos="fade-right") Cuando se habla o socializa sobre la temática de salud mental, no se hace referencia a un término en concreto, debido a que es inexacto determinar un solo concepto para salud mental, sin embargo, en el siguiente apartado se partirá del supuesto que un individuo posee salud mental cuando alcanza equilibrio funcional de la actividad psíquica lo que lleva a un “estado de bienestar psicológico” tal como lo ha indicado la Organización Mundial de Salud, en su conceptualización integral de salud.
+    p.mb-5(data-aos="fade-right") Cuando se habla o socializa sobre la temática de salud mental, no se hace referencia a un término en concreto, debido a que es inexacto determinar un solo concepto para salud mental, sin embargo, en el siguiente apartado se partirá del supuesto que un individuo posee salud mental cuando alcanza equilibrio funcional de la actividad psíquica, lo que lleva a un “estado de bienestar psicológico” tal como lo ha indicado la Organización Mundial de Salud, en su conceptualización integral de salud.
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="fade-down")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -51,7 +51,7 @@
           .col-12.bg-c2(style="z-index:1")
             .p-4
               p #[b Aspectos metapsicológicos]
-              p.mb-0 Hacen referencia a lo espiritual es decir a la capacidad para pensar y para amar.
+              p.mb-0 Hacen referencia a lo espiritual, es decir, a la capacidad para pensar y para amar.
     p.mb-5(data-aos="fade-right") En conclusión, para apropiar el concepto de salud mental es necesario comprender que esta se da cuando en la esfera psíquica funcionan en equilibrio todos los aspectos anteriormente mencionados (cognición, afectividad, ejecución y metapsicología).
     .row.mb-5(data-aos="fade-left")
       .col-12.bg-c3
@@ -66,7 +66,7 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver video
                 i.fas.fa-file-download(style="color: #12263F !important")
-    p.mb-0(data-aos="fade-right") Adicional, existen otros conceptos relevantes para comprender de mejor manera, la salud mental, los cuales se explicarán a continuación.
+    p.mb-0(data-aos="fade-right") Adicionalmente, existen otros conceptos relevantes para comprender de mejor manera, la salud mental, los cuales se explicarán a continuación.
     Separador
     #t_1_1
     .titulo-segundo.color-acento-contenido
@@ -77,7 +77,7 @@
           img(src='@/assets/curso/tema1/img5.png', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Se dice que existe Salud Mental Positiva (SMP), cuando el ser humano encuentra balance entre lo que espera de la vida y lo que la vida le ofrece, es decir, la felicidad necesita de la interacción del individuo con el medio ambiente y por tanto tiene en cuenta el instinto, la valoración, la singularidad del individuo y no necesariamente depende de su estado emocional o de sus eventualidades.
-        p.mb-0 De acuerdo a lo anterior, se puede inferir que no hay un ser humano que pueda decir “estoy sano” pues el ser humano tiene en esencia la enfermedad y la salud que se expresan acorde a una condición específica; se trata del equilibrio que debe existir entre el componente biológico y ambiental porque son componentes que están íntimamente relacionados, de tal forma que si hay fracaso en el biológico aparecen trastornos que hoy día son explicados a través de las neurociencias.
+        p.mb-0 De acuerdo a lo anterior, se puede inferir que no hay un ser humano que pueda decir “estoy sano” pues el ser humano tiene en esencia la enfermedad y la salud que se expresan según a una condición específica; se trata del equilibrio que debe existir entre el componente biológico y ambiental porque son componentes que están íntimamente relacionados, de tal forma que si hay fracaso en el biológico aparecen trastornos que hoy día son explicados a través de las neurociencias.
     p.mb-5(data-aos="fade-right") De tal manera, que pueda darse un tratamiento o una intervención ajustadas a la necesidad.
     .row.mb-5(data-aos="fade-down")
       .col-lg-6.mb-4.mb-lg-0
@@ -86,10 +86,10 @@
       .col-lg-6
         figure
           img(src='@/assets/curso/tema1/img4.svg', style="width: 550px" ,alt='Componente ambiental').m-auto
-    p(data-aos="fade-right") De otra parte, Abarca (2005) la define como: #[b.txt-c1 “La Salud Mental Positiva SMP incorpora los elementos físicos y mentales y las vincula entre estos elementos; por lo que la SMP es un curso dinámico y multidimensional”]; es decir, un ser humano equilibrado no tiene que estar siempre de buen humor, con la visión que todo irá mejor, lo que propone la salud mental positiva es que se pueda entender que como individuo tiene momentos en el que su estado de ánimo cambia y puede sentirse cansado, desanimado y puede tener instantes con pensamientos negativos, pero no existe desajuste alguno que le impida interactuar con los demás sanamente.
+    p(data-aos="fade-right") De otra parte, Abarca (2005) establece que: #[b.txt-c1 “La Salud Mental Positiva SMP incorpora los elementos físicos y mentales y las vincula entre estos elementos; por lo que la SMP es un curso dinámico y multidimensional”]; es decir, un ser humano equilibrado no tiene que estar siempre de buen humor, con la visión que todo irá mejor, lo que propone la salud mental positiva es que se pueda entender que como individuo tiene momentos en el que su estado de ánimo cambia y puede sentirse cansado, desanimado y puede tener instantes con pensamientos negativos, pero no existe desajuste alguno que le impida interactuar con los demás sanamente.
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Es así que se cuenta con resiliencia mental y espiritual que da la oportunidad de gozar de la existencia, de sobreponerse al dolor, a la decepción, a la tristeza. Comprender que un individuo sin necesidad de padecer un trastorno psiquiátrico puede desarrollar estados que afectan su salud mental, pero que tiene la capacidad de aceptarlo y de encontrar la manera de auto- gestionarse de tal forma que puede vencer esos estados de ánimo negativos y lograr un desempeño ajustado dentro del grupo social al que pertenece.
+        p Es así que se cuenta con resiliencia mental y espiritual que da la oportunidad de gozar de la existencia, de sobreponerse al dolor, a la decepción, a la tristeza. Se debe comprender que un individuo sin necesidad de padecer un trastorno psiquiátrico puede desarrollar estados que afectan su salud mental, pero que tiene la capacidad de aceptarlo y de encontrar la manera de auto- gestionarse de tal forma que puede vencer esos estados de ánimo negativos y lograr un desempeño ajustado dentro del grupo social al que pertenece.
         p.mb-0 Existen algunos modelos o propuestas del abordaje de la Salud Mental Positiva, SMP, que aún se encuentran en fase de incubación, pero que brindan herramientas e información para realizar abordaje en materia de promoción y prevención de la salud mental de los individuos pertenecientes a un colectivo social, estos son:
       .col-lg-5(data-aos="fade-left")
         figure
@@ -102,7 +102,7 @@
       .row(titulo="Teoría de la autodeterminación de Deci y Ryan")
         .col-12
           .p-4
-            p.mb-0 Esta teoría de la autodeterminación implica que un individuo funciona adecuada y sanamente si posee una adecuada satisfacción de sus necesidades psicológicas y un sistema de metas congruente y coherente.
+            p.mb-0 Esta teoría implica que un individuo funciona adecuada y sanamente si satisface sus necesidades psicológicas y cuenta con un sistema de metas congruente y coherente.
       .row(titulo="Modelo de bienestar de Carol Ryff")
         .col-12
           .p-4
@@ -124,7 +124,7 @@
                 i.fas.fa-check(style="color: #006A76")
                 |
                 p.mb-0 #[b Bienestar social]: propone elementos asociados al bienestar social y comunitario.
-      .row(titulo="Modelo de las tres vías de Martín Seligman")
+      .row(titulo="Modelo de las tres vías de Martin Seligman")
         .col-12
           .p-4
             p El autor resume los resultados de investigaciones y teorías anteriores acerca de Salud Mental Positiva en tres dimensiones que llevan al bienestar del individuo:
@@ -132,15 +132,15 @@
               li.d-flex
                 i.fas.fa-check(style="color: #006A76")
                 |
-                p.mb-0 #[b La vida placentera (pleasent life)]: comprende la capacidad para examinar emociones positivas sobre pasado, presente y futuro.
+                p.mb-0 #[b La vida placentera (#[i pleasant life])]: comprende la capacidad para examinar emociones positivas sobre pasado, presente y futuro.
               li.d-flex
                 i.fas.fa-check(style="color: #006A76")
                 |
-                p.mb-0 #[b La vida comprometida (engaged life)]: trata de llevar a la praxis diaria las fortalezas personales.
+                p.mb-0 #[b La vida comprometida (#[i engaged life])]: trata de llevar a la praxis diaria las fortalezas personales.
               li.d-flex
                 i.fas.fa-check(style="color: #006A76")
                 |
-                p.mb-0 #[b La vida significativa (meaning full life)]: incorpora la noción trascendental y el crecimiento de metas más allá del individuo mismo.
+                p.mb-0 #[b La vida significativa (#[i meaningful life])]: incorpora la noción trascendental y el crecimiento de metas más allá del individuo mismo.
     Separador
     #t_1_2
     .titulo-segundo.color-acento-contenido
@@ -150,7 +150,7 @@
         figure
           img(src='@/assets/curso/tema1/img7.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
       .col-lg-7(data-aos="fade-left")
-        p.mb-0 Cuando se hace referencia a Salud Mental Comunitaria se deben tener en cuenta todas aquellas acciones encaminadas a realizar atención profesional, fuera de hospitales psiquiátricos, clínicas, y hospitales generales. En realidad, lo que llamamos #[b.txt-c1 “salud comunitaria”] es el programa de salud pública local, planificado en base a los problemas y necesidades de cada comunidad ejecutando con la participación de la comunidad. Se trata de una estrategia para aplicar localmente en los programas de salud pública, y no de una especialidad nueva de la salud pública menos de la medicina.
+        p.mb-0 Cuando se hace referencia a Salud Mental Comunitaria se deben tener en cuenta todas aquellas acciones encaminadas a realizar atención profesional, fuera de hospitales psiquiátricos, clínicas, y hospitales generales. En realidad, lo que llamamos #[b.txt-c1 “salud comunitaria”] es el programa de salud pública local, planificado con base a los problemas y necesidades de cada comunidad ejecutando con la participación de la comunidad. Se trata de una estrategia para aplicar localmente en los programas de salud pública, y no de una especialidad nueva de la salud pública menos de la medicina.
     p.mb-5(data-aos="fade-right") Teniendo como base lo anterior, se puede concluir que cuando se infiere sobre Salud Mental Comunitaria es necesario comprender que se trata de todos los planes y programas de promoción y prevención basados en los lineamientos y en las políticas públicas de cada país, y está basada en principios fundamentales como:
     .row.bg-c4.mb-5(data-aos="fade-left")
       .col-12
@@ -161,7 +161,7 @@
                 li.d-flex
                   i.fas.fa-check(style="color: #FF8182")
                   |
-                  p.mb-0 La inquietud no solo por la #[b #[i “sanación”]] sino en las acciones que comprende la prevención seguimiento y rehabilitación.
+                  p.mb-0 La inquietud no solo por la #[b “sanación”] sino también por las acciones que comprenden la prevención, seguimiento y rehabilitación.
                 li.d-flex
                   i.fas.fa-check(style="color: #FF8182")
                   |
@@ -224,7 +224,7 @@
                 .row(titulo="Principio 4")
                   .col-12
                     .p-4
-                      p.mb-0 Posteriormente a la crisis económica de los años 70 y a la conciencia ética de la necesidad que el Estado proporcione bienestar a la comunidad, se publica el libro de Jhon Rawls #[b #[i “Teoría de la Justicia”]], donde por primera vez se establecen valores fundamentales de la equidad social y  la protección de la salud.
+                      p.mb-0 Posteriormente a la crisis económica de los años 70 y a la conciencia ética de la necesidad que el Estado proporcione bienestar a la comunidad, se publica el libro de Jhon Rawls #[b #[i Teoría de la Justicia]], donde por primera vez se establecen valores fundamentales de la equidad social y  la protección de la salud.
                 .row(titulo="Principio 5")
                   .col-12
                     .p-4
@@ -232,12 +232,12 @@
                 .row(titulo="Principio 6")
                   .col-12
                     .p-4
-                      p.mb-0 En el año 2000 entra en vigencia en España el Convenio de Oviedo, el cual había sido suscrito el 4 de abril de 1997. Este documento se convierte en el primer punto de partida para la defensa de los derechos en salud, porque es el primer documento vinculante que incorpora #[b #[i “el consentimiento informado y su revocabilidad”]], lo cual representa para la salud mental un hecho histórico, debido a que fundamenta las intervenciones no consentidas en el derecho a la protección de la salud de las personas con trastorno mental grave que no tienen capacidad para tomar decisiones.
+                      p.mb-0 En el año 2000 entra en vigencia en España el Convenio de Oviedo, el cual había sido suscrito el 4 de abril de 1997. Este documento se convierte en el primer punto de partida para la defensa de los derechos en salud, porque es el primer documento vinculante que incorpora #[b #[i el consentimiento informado y su revocabilidad]], lo cual representa para la salud mental un hecho histórico, debido a que fundamenta las intervenciones no consentidas en el derecho a la protección de la salud de las personas con trastorno mental grave que no tienen capacidad para tomar decisiones.
                 .row(titulo="Principio 7")
                   .col-12
                     .p-4
-                      p.mb-0 En enero de 2005 se celebró en Helsinki la #[b #[i “Conferencia Ministerial de la OMS para la salud Mental”]] la cual se conoce como #[b #[i “La Declaración de Helsinki”]]; de ella se desencadena un plan de acción y el #[b #[i “Libro verde para mejorar la salud mental”]], allí se indica la relevancia de los derechos humanos y la supresión del vestigio y la exclusión y se incluye normatividad.
-                      p.mb-0 En enero de 2005 se celebró en Helsinki la #[b #[i “Conferencia Ministerial de la OMS para la salud Mental”]] la cual se conoce como #[b #[i “La Declaración de Helsinki”]]; de ella se desencadena un plan de acción y el #[b #[i “Libro verde para mejorar la salud mental”]], allí se indica la relevancia de los derechos humanos y la supresión del vestigio y la exclusión y se incluye normatividad.
+                      p.mb-0 En enero de 2005 se celebró en Helsinki la #[b #[i Conferencia Ministerial de la OMS para la salud Mental]] la cual se conoce como #[b #[i La Declaración de Helsinki]]; de ella se desencadena un plan de acción y el #[b #[i Libro verde para mejorar la salud mental]], allí se indica la relevancia de los derechos humanos y la supresión del vestigio y la exclusión y se incluye normatividad.
+                      p.mb-0 En enero de 2005 se celebró en Helsinki la #[b #[i Conferencia Ministerial de la OMS para la salud Mental]] la cual se conoce como #[b #[i La Declaración de Helsinki]]; de ella se desencadena un plan de acción y el #[b #[i Libro verde para mejorar la salud mental]], allí se indica la relevancia de los derechos humanos y la supresión del vestigio y la exclusión y se incluye normatividad.
                 .row(titulo="Principio 8")
                   .col-12
                     .p-4
@@ -250,7 +250,7 @@
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p El plan de beneficios en salud mental con cargo a las UPC (Unidad de Pago por Capitación), es el conjunto de servicios y tecnologías en salud a que tiene derecho todo afiliado al sistema general de seguridad social y cuyo servicio debe ser garantizado por las EPS.
         p Comprende el acceso a los servicios de salud de manera oportuna, eficaz y con calidad para la preservación, el mejoramiento y la promoción de la salud. El Estado favorecerá políticas para asegurar la igualdad de trato y oportunidades en el acceso a las actividades de promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliación para todas las personas.
-        p.mb-0 El gobierno colombiano por medio del Sistema General de Seguridad Social en Salud, está en la obligación de proteger a la población colombiana, en preferencia a los niños, las niñas y adolescentes, la promoción de la salud mental y prevención del trastorno mental, atención integral e integrada que implica el diagnóstico, tratamiento y rehabilitación en salud para todos los trastornos mentales.
+        p.mb-0 El gobierno colombiano por medio del Sistema General de Seguridad Social en Salud, está en la obligación de proteger a la población colombiana, con preferencia por los niños, las niñas y adolescentes, la promoción de la salud mental y prevención del trastorno mental, atención integral e integrada que implica el diagnóstico, tratamiento y rehabilitación en salud para todos los trastornos mentales.
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img9.png', style="width: 270px" ,alt='Imagen decorativa').m-auto

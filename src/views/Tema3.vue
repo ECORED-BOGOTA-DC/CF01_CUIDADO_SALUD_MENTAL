@@ -16,7 +16,7 @@
                 img(src='@/assets/curso/tema3/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p La política puede ser consultada en el siguiente enlace:
-              p.mb-4 #[b Política Nacional de Salud Menta]
+              p.mb-4 #[b Política Nacional de Salud Mental]
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-nacional-salud-mental.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
@@ -33,7 +33,7 @@
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width: 70px" ,alt='').m-auto
       .col
-        p.mb-0 Las afectaciones en salud mental en Colombia atentan especialmente a niños, adolescentes y adultos jóvenes, situación que empeora en gran medida el pronóstico, la productividad académica y económica de la población y en últimas, el capital global, que incluye los factores personales, simbólicos, culturales y relacionales.
+        p.mb-0 Las afectaciones en salud mental en Colombia impactan especialmente a niños, adolescentes y adultos jóvenes, situación que empeora en gran medida el pronóstico, la productividad académica y económica de la población y en últimas, el capital global, que incluye los factores personales, simbólicos, culturales y relacionales.
     p.mb-5(data-aos="fade-right") En Colombia las afectaciones más relevantes son:
     TabsA.color-acento-contenido.mb-5(data-aos="fade-down")
       .tarjeta.color-acento-botones.p-4(titulo="Problemas y trastornos mentales")
@@ -83,7 +83,8 @@
       .tarjeta.color-acento-botones.p-4(titulo="Epilepsia")
         .row
           .col-lg-8.mb-4.mb-lg-0
-            p.mb-0 Los orígenes del consumo de sustancias psicoactivas son múltiples, se asocia a factores económicos, sociales, biológicos, psicológicos y culturales, de orden comunitario, familiar e individual. El consumo sustancias psicoactivas en la infancia y adolescencia daña el desarrollo cerebral, así mismo, su uso es una causa de riesgo considerable para la salud, lo cual se refleja principalmente en la pérdida de años vividos sin salud, en la mortalidad asociada a eventos como la violencia, enfermedades infecciosas (VIH/SIDA, hepatitis B y C) y crónicas como cirrosis, afecciones cardiovasculares, cáncer enfermedades mentales, entre otras, con efectos desproporcionados en poblaciones específicas como gestantes, habitantes de calle, personas privadas de la libertad y personas que se inyectan drogas.
+            p Esta enfermedad genera un impacto importante en la salud mental de quienes la padecen, por la discapacidad que produce y el estigma y la discriminación que con frecuencia se asocia a ella.
+            p.mb-0 En el Plan Decenal de Salud Pública 2012-2021, la epilepsia fue visualizada en el componente "Prevención y atención integral a problemas y transtornos mentales y las diferentes formas de la violencia".
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img6.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
@@ -106,9 +107,9 @@
       .py-4.py-md-5(titulo="Derechos" :icono="require('@/assets/curso/tema3/img3.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
-            p Reconoce y da interpretación de los sujetos individuales y colectivos como titulares de derechos. Examina el desarrollo de capacidades en las personas, familias y comunidades para el alcance de su bienestar físico, mental y social, ampliando sus libertades y posibilidades de elección para durar una vida plena de sentido, según el momento de curso de vida en el que se desarrolla, las características y condiciones poblacionales que los reconoce, y los territorios específicos que habitan y construyen subjetivamente. asegurando, para todo ser humano, libertad, bienestar y dignidad.
-            p El despliegue fundamentado en derechos humanos tiene una estrecha relación con la salud mental, toda vez que dicho sin convenientes afectan la esperanza de vida, los años de instrucción esperados y el Ingreso Nacional Bruto per cápita, provocando resultados negativos y consecuencias de la pobreza; por otra parte, las personas con dificultades mentales deben conf
-            p.mb-0 las conveniencias de empleo y otras fuentes de concepción de ingresos, debido a la señalización, exclusión y discriminación que históricamente han vivido.
+            p Reconoce y da interpretación de los sujetos individuales y colectivos como titulares de derechos. Examina el desarrollo de capacidades en las personas, familias y comunidades para el alcance de su bienestar físico, mental y social, ampliando sus libertades y posibilidades de elección para durar una vida plena de sentido, según el momento de curso de vida en el que se desarrollan, las características y condiciones poblacionales que los reconocen, y los territorios específicos que habitan y construyen subjetivamente. Asegurando, para todo ser humano, libertad, bienestar y dignidad.
+            p El despliegue fundamentado en derechos humanos tiene una estrecha relación con la salud mental, toda vez que dichos inconvenientes afectan la esperanza de vida, los años de instrucción esperados y el Ingreso Nacional Bruto per cápita, provocando resultados negativos y consecuencias de la pobreza; por otra parte, las personas con dificultades mentales deben confrontar numerosos obstáculos para el Ingreso a la educación.
+            p.mb-0 las conveniencias de empleo y otras fuentes de concepción de ingresos, debido a la señalación, exclusión y discriminación que históricamente han vivido.
           .col-lg-3
             figure
               img(src='@/assets/curso/tema3/img7.png', style="width: 150px" ,alt='Imagen decorativa').m-auto
@@ -130,7 +131,7 @@
       .py-4.py-md-5(titulo="Diferencial" :icono="require('@/assets/curso/tema3/img6.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
-            p Perceptibilidad de la importancia de las individualidades de los sujetos, considerando su situación, y su contexto con las variables culturales, sociales y políticas que les son inherentes. Implica el conocimiento de condiciones constitutivas de discapacidad, edad, etnia, así como sociales, culturales, religiosas, políticas y económicas, las afectaciones por violencias (social y política), de ubicación geográfica y la condición legal, entre otras. Del mismo modo, fomentar la totalidad de los derechos, lo multicultural, lo étnico y promueve la lectura en contexto. En este sentido, al orientar el enfoque diferencial observa la importancia de la relación población – territorio, como categorías que promueven la formulación, implementación y evaluación de políticas que tengan como punto de inicio a las personas de forma individual o colectiva de derechos, como las condiciones poblacionales y territoriales.
+            p Perceptibilidad de la importancia de las individualidades de los sujetos, considerando su situación, y su contexto con las variables culturales, sociales y políticas que les son inherentes. Implica el conocimiento de condiciones constitutivas de discapacidad, edad, etnia, así como sociales, culturales, religiosas, políticas y económicas, las afectaciones por violencias (social y política), de ubicación geográfica y la condición legal, entre otras. Del mismo modo, fomenta la totalidad de los derechos, lo multicultural, lo étnico y promueve la lectura en contexto. En este sentido, al orientar el enfoque diferencial se observa la importancia de la relación población – territorio, como categorías que promueven la formulación, implementación y evaluación de políticas que tengan como punto de inicio a las personas de forma individual o colectiva de derechos, como las condiciones poblacionales y territoriales.
             p.mb-0 Junto con el desarrollo del enfoque diferencial, se requiere el enfoque interseccional entendido como la comprensión de los procesos complejos que derivan de la interacción de factores políticos, sociales, culturales, económicos y simbólicos en cada contexto.
           .col-lg-3
             figure

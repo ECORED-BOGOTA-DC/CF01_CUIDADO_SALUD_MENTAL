@@ -11,7 +11,7 @@
         figure
           img(src='@/assets/curso/tema9/img1.png', style="width: 280px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
-        p Cuando se habla de afrontamiento o estrategia de afrontamiento es importante tener en cuenta que en la medida en que el individuo, posea habilidades, destrezas y recursos psíquicos para actuar frente a un evento estresor que se le pueda presentar a lo largo de la vida, esta se convierte en un factor protector o en un factor de riesgo que incide de manera directa en la salud mental del individuo; de tal forma, que el afrontamiento se convierte en el conjunto de esfuerzos de tipo cognitivo y conductual que cambia de manera constante y que se desenvuelve para responder al manejo de las exigencias puntuales, extrínsecas y/o intrínsecas, que son examinadas como excesos y que se desbordan a partir de los recursos del sujeto.
+        p Cuando se habla de afrontamiento o estrategia de afrontamiento es importante tener en cuenta que en la medida en que el individuo posea habilidades, destrezas y recursos psíquicos para actuar frente a un evento estresor que se le pueda presentar a lo largo de la vida, estos se convierten en factores protectores o factores de riesgo que inciden de manera directa en la salud mental del individuo; de tal forma, que el afrontamiento se convierte en el conjunto de esfuerzos de tipo cognitivo y conductual que cambia de manera constante y que se desenvuelve para responder al manejo de las exigencias puntuales, extrínsecas o intrínsecas, que son examinadas como excesos y que se desbordan a partir de los recursos del sujeto.
         p.mb-0 Es importante para el individuo desarrollar destrezas para crear estrategias de acuerdo a los eventos que más niveles de estrés le provocan, con el fin de responder de manera adaptativa sin llegar a un desajuste importante en su salud mental.
     p.mb-5(data-aos="fade-right") Según Valverde, López y Ring (2004), Lazarus y Folkman (1982), existen dos grandes tipos de estrategias de afrontamiento:
     .row.justify-content-center.mb-4(data-aos="fade-down")
@@ -64,8 +64,8 @@
           h3.mb-0.ms-0.ms-lg-2 Estilos de afrontamiento y factor protector
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Se refiere a las predisposiciones personales para hacer frente a las situaciones, y son los responsables de las preferencias individuales en el uso de uno u otro tipo de estrategias de afrontamiento, así como de su estabilidad temporal y situacional; en tanto que las estrategias son los procesos concretos en cada contexto y pueden ser altamente cambiantes dependiendo de la situación que lo desencadene.
-        p.mb-0 En la siguiente figura 1 se observa con detenimiento los estilos de afrontamiento y cómo se comportan ante un evento estresor.
+        p Se refiere a las predisposiciones personales para hacer frente a las situaciones, y son los responsables de las preferencias individuales en el uso de uno u otro tipo de estrategias de afrontamiento, así como de su estabilidad temporal y situacional, en tanto que las estrategias son los procesos concretos en cada contexto y pueden ser altamente cambiantes dependiendo de la situación que lo desencadene.
+        p.mb-0 En la siguiente figura se observa con detenimiento los estilos de afrontamiento y cómo se comportan ante un evento estresor.
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema9/img4.png', style="width: 550px" ,alt='Imagen decorativa').m-auto

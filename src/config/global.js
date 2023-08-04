@@ -238,11 +238,11 @@ export default {
     },
     {
       termino: 'TOC',
-      significado: 'Trastorno Obsesivo Compulsivo.',
+      significado: ' Trastorno Obsesivo Compulsivo.',
     },
     {
       termino: 'TEPT',
-      significado: 'Trastorno de Estrés Post-Traumático.',
+      significado: ' Trastorno de Estrés Post-Traumático.',
     },
   ],
   referencias: [
@@ -253,7 +253,7 @@ export default {
     },
     {
       referencia:
-        'Blanco, A., Diaz, D. (2005). El bienestar social: su concepto y medición. <i>Psicothema</i>. 2005; 17 (4) p.p. 582-589.',
+        'Blanco, A., Diaz, D. (2005). <i>El bienestar social: su concepto y medición</i>. Psicothema. 2005; 17 (4) p.p. 582-589.',
       link: '',
     },
     {

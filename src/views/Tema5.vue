@@ -20,7 +20,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Clases]
-              p Cuando se habla de #[b familia nuclear] se quiere significar que se tienen en cuenta, a nivel estructural, exclusivamente a los padres e hijo; la #[b familia extensa] incluye otras personas con las que se tiene un parentesco (consanguíneo y/o por afinidad), como abuelos, cuñados, primos etc.
+              p Cuando se habla de #[b familia nuclear] se quiere significar que se tienen en cuenta, a nivel estructural, exclusivamente a los padres e hijos; la #[b familia extensa] incluye otras personas con las que se tiene un parentesco (consanguíneo o por afinidad), como abuelos, cuñados, primos etc.
               p.mb-0 La familia como sistema es diferente a cada uno de sus miembros, las acciones de uno de éstos afectarán a los demás como al sistema mismo.
             .col-lg-5
               figure
@@ -30,7 +30,7 @@
               p #[b Estructura]
               p La estructura de la familia se modifica a medida que cambia la sociedad de la que forma parte.
               p Hoy en día existe más libertad para decidir con quién quiero estar para fundar o iniciar una familia, debido a que en el pasado en algunas sociedades esta decisión era tomada por los padres.
-              p En el período de la civilización también ha sufrido modificaciones pasando de una familia tradicional a una industrial y a la post industrial La familia industrial estructuralmente era numerosa y extensa; generalmente se encontraba en ella una unidad económica (productiva y de consumo).
+              p Dependiendo del periodo en el que se ha encontrado la civilización, la familia también ha sufrido modificaciones pasando de una familia tradicional a una industrial y a la post industrial. La familia industrial estructuralmente era numerosa y extensa; generalmente se encontraba en ella una unidad económica (productiva y de consumo).
               p La familia industrial es nuclear, menos numerosa y con ella se logra una mayor igualdad en los derechos de la mujer y el hombre.
               p.mb-0 En la familia post industrial, las labores domésticas, el trabajo, la educación de los hijos etc., son tareas compartidas entre el hombre y la mujer.
             .col-lg-5
@@ -38,7 +38,7 @@
                 img(src='@/assets/curso/tema5/img2.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p #[b Estructura]
+              p #[b Función social]
               p La familia además de estar conformada estructuralmente, cumple diversas funciones, que también se modifican en forma paralela de acuerdo a los cambios sociales.
               p Son tres las funciones básicas que se cumplen dentro del núcleo familia, las cuales se equiparan a los propósitos de familia:
               ul.lista-ul.mb-0

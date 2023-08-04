@@ -13,7 +13,7 @@
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/ZDy1oIMM_Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5(data-aos="fade-down") Con base en lo anterior se puede tener claridad sobre los trastornos prevalentes, pero no hay que olvidar que a raíz del Covid-19, aparecieron o se intensificaron enfermedades de tipo mental, como en el siguiente artículo, donde se destaca la importancia que tiene la salud mental para el gobierno nacional, no solo con el enfoque para el individuo, sino también para las familias y la sociedad.
+    p.mb-5(data-aos="fade-down") Con base en lo anterior se puede tener claridad sobre los trastornos prevalentes, pero no hay que olvidar que a raíz del Covid-19, aparecieron o se intensificaron enfermedades de tipo mental, como lo señala el siguiente artículo, donde se destaca la importancia que tiene la salud mental para el gobierno nacional, no solo con el enfoque para el individuo, sino también para las familias y la sociedad.
     .row(data-aos="fade-left")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
@@ -34,7 +34,7 @@
     .row.align-items-center.mb-3
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p Un problema de salud mental se transforma en enfermedad cuando los signos y síntomas dejan de ser transitorios, se instalan de manera permanente, generan situaciones de confusión e inciden en la capacidad para funcionar de manera ajustada en la sociedad.
-        p Un trastorno de salud mental o una enfermedad mental, tiene que ver con múltiples afecciones mentales, como por ejemplo aquellos que afectan el estado de ánimo como: tristeza, melancolía sin motivo aparente, baja estima, entre otras situaciones. Así también pueden provocar distorsiones de pensamiento al tener pensamientos e ideas negativas constantes, que generan un alto sentimiento de persecución o deseos de hacer algo que atente en contra de otras u otras personas, como la propia vida.
+        p Un trastorno de salud mental o una enfermedad mental, tiene que ver con múltiples afecciones mentales, como por ejemplo aquellas que afectan el estado de ánimo como: tristeza, melancolía sin motivo aparente, baja estima, entre otras situaciones. Así también pueden provocar distorsiones de pensamiento al tener pensamientos e ideas negativas constantes, que generan un alto sentimiento de persecución o deseos de hacer algo que atente en contra de otras u otras personas, como la propia vida.
         p.mb0 Los comportamientos de aislamiento, descuido en la apariencia personal, pueden ser signos de depresión, de trastornos de ansiedad, de trastornos de la alimentación y de adicciones.
       .col-lg-4(data-aos="fade-left")
         figure
@@ -103,7 +103,7 @@
     #t_8_2
     .titulo-segundo.color-acento-contenido
       h2 8.2 Conductas asociadas
-    p.mb-5(data-aos="fade-right") Las personas cambian su comportamiento según su estado de ánimo. Cada ser humano varía día a día, dependiendo de las circunstancias. Sin embargo, un gran cambio repentino en la personalidad y/o en la conducta en particular, si no está relacionado con algún acontecimiento, este indica un problema. Estos cambios de comportamiento se pueden clasificar en alguno de los siguientes:
+    p.mb-5(data-aos="fade-right") Las personas cambian su comportamiento según su estado de ánimo. Cada ser humano varía día a día, dependiendo de las circunstancias. Sin embargo, un gran cambio repentino en la personalidad o en la conducta en particular, si no está relacionado con algún acontecimiento, este indica un problema. Estos cambios de comportamiento se pueden clasificar en alguno de los siguientes:
     .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-md-6.col-lg.m-2
         .row.align-items-center
@@ -136,7 +136,7 @@
               img(src='@/assets/curso/tema8/img6.png', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
-              p.mb-0.ms-1 #[b Animo extremo.]
+              p.mb-0.ms-1 #[b Ánimo extremo.]
     p.mb-0(data-aos="fade-right") Estas categorías no son trastornos. Para estos síntomas los profesionales de la salud mental organizan diferentes tipologías al detectar estos pensamientos, discursos y conductas anormales del paciente. Una persona afectada puede presentar más de un tipo de cambio. Por ejemplo, las personas que presentan confusión debido a interacciones entre fármacos presentan a menudo alucinaciones o delirios persistentes.
     Separador
     #t_8_3

@@ -27,10 +27,10 @@
           img(src='@/assets/curso/tema1/img8.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c7(style="z-index:1")
         .py-3.px-4
-          h3.mb-0.ms-0.ms-lg-2 Plan nacional de salud pública (documento ASIS – dimensión de convivencia y salud mental)
+          h3.mb-0.ms-0.ms-lg-2 Plan Nacional de Salud Pública (documento ASIS – dimensión de convivencia y salud mental)
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Dentro del Plan nacional de salud pública, existe el documento ASIS, Análisis de la Situación de Salud, el cual consiste en una serie de procedimientos que se encargan de analizar para determinar, cuantificar e interpretar el perfil salud-enfermedad de un grupo poblacional, teniendo en cuenta el deterioro y las situaciones problémicas de salud, sea que hagan parte de la competencia del sector salud o de otros sectores.
+        p Dentro del Plan Nacional de Salud Pública, existe el documento ASIS, Análisis de la Situación de Salud, el cual consiste en una serie de procedimientos que se encargan de analizar para determinar, cuantificar e interpretar el perfil salud-enfermedad de un grupo poblacional, teniendo en cuenta el deterioro y las situaciones problémicas de salud, sea que hagan parte de la competencia del sector salud o de otros sectores.
         p.mb-0 Los ASIS se convierten en una herramienta facilitadora que permite el reconocimiento de las falencias y las prioridades en materia de salud y también el señalamiento de acciones de intervención y planes y programas ajustados y la valoración del impacto en salud.
       .col-lg-5(data-aos="fade-left")
         figure
@@ -60,8 +60,8 @@
         figure
           img(src='@/assets/curso/tema2/img2.png', style="width: 300px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
-        p Estos avalan el pleno ejercicio de la salud mental como parte integral del derecho a la salud de la población que vive en el territorio nacional orientando la atención primaria en salud.
-        p.mb-0 Reúnen las acciones intersectoriales orientadas a fomentar las pericias individuales, colectivas y poblacionales que inspeccionan a los sujetos para ejercer y gozar de los derechos y por esta vía desarrollar una salud mental para afrontar los desafíos de la vida, trabajando y realizando relaciones significativas y para contribuir a un tejido comunitario basado en relaciones de poder equitativas, dignas y justas para todos; robusteciendo el tejido que brinda soporte, colectivo familiar y comunitario y articulando las actividades de salud con las iniciativas de los distintos sectores a fin de mejorar el bienestar y la calidad de vida de las personas, de manera que permiten, mayor desarrollo del capital humano.
+        p Estos avalan el pleno ejercicio de la salud mental como parte integral del derecho a la salud de la población que vive en el territorio nacional, orientando la atención primaria en salud.
+        p.mb-0 Reúnen las acciones intersectoriales orientadas a fomentar las pericias individuales, colectivas y poblacionales que inspeccionan a los sujetos para ejercer y gozar de los derechos y por esta vía desarrollar una salud mental para afrontar los desafíos de la vida, trabajando y realizando relaciones significativas y para contribuir a un tejido comunitario basado en relaciones de poder equitativas, dignas y justas para todos; robusteciendo el tejido que brinda soporte, colectivo familiar y comunitario y articulando las actividades de salud con las iniciativas de los distintos sectores a fin de mejorar el bienestar y la calidad de vida de las personas, de manera que permiten mayor desarrollo del capital humano.
     p.mb-5(data-aos="fade-right") En la salud mental se han definido diez habilidades básicas, las cuales son:
     .row.mb-5(data-aos="fade-up")
       .col-12.bg-c8
@@ -109,7 +109,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 9.
-                  | Manejo de emociones y sentimiento.
+                  | Manejo de emociones y sentimientos.
                 li 
                   .lista-ol--cuadro__vineta
                     span 10.
@@ -169,7 +169,7 @@
         figure
           img(src='@/assets/curso/tema2/img6.png', style="width: 300px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
-        p Se desarrollan estrategias dirigidas a prever y a atender integralmente aquellos estados temporales o permanentes identificables por el individuo y/o por otras personas en los que las emociones, pensamientos y conductas inciden o arriesgan la condición de tranquilidad o de placer en correlación a sí mismo, con la colectividad y con el contexto, y que varían las competencias de los individuos para reconocer sus cualidades particulares a la hora de enfrentar las tensiones propias de la cotidianidad.
+        p Se desarrollan estrategias dirigidas a prever y a atender integralmente aquellos estados temporales o permanentes identificables por el individuo o por otras personas en los que las emociones, pensamientos y conductas inciden o arriesgan la condición de tranquilidad o de placer con relación a sí mismo, con la colectividad y con el contexto, y que varían las competencias de los individuos para reconocer sus cualidades particulares a la hora de enfrentar las tensiones propias de la cotidianidad.
         p De esta manera no le permite producir en forma efectiva en función de la colectividad, de igual forma, incluye la prevención de la violencia en entornos familiares, escolares, comunitarios y laborales y la atención del impacto de las diferentes formas de violencia sobre la salud mental.
         p.mb-0 Por tanto, se pueden mencionar las problemáticas más comunes:
     .tarjeta.tarjeta--verde(data-aos="fade-right")
@@ -178,13 +178,13 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Violencia y convivencia]
-              p En cuanto a esta problemática, el gobierno colombiano se ocupa desde la visión de la integralidad de la atención en salud mental en dos temas específicos:
+              p En cuanto a esta problemática, el gobierno colombiano se ocupa desde la visión de la integralidad de la atención en salud mental, de dos temas específicos:
               ol.lista-ol--cuadro.lista-ol.mb-0
                 li.d-flex
                   .lista-ol--cuadro__vineta
                     span 1.
                   |
-                  p.mb-0 Actuar sobre los factores de riesgo asociados a las distintas formas de violencia; los problemas y padecimientos mentales y los sucesos asociados en el colectivo general y la población e individuos con riesgos específicos.
+                  p.mb-0 Actuar sobre los factores de riesgo asociados a las distintas formas de violencia; los problemas y padecimientos mentales y los sucesos asociados con el colectivo general y la población e individuos con riesgos específicos.
                 li.d-flex
                   .lista-ol--cuadro__vineta
                     span 2.
@@ -204,7 +204,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Abuso y dependencia de sustancias psicoactivas]
-              p Cualquier tipo de consumo se considera problemático cuando deteriora la salud física y mental, cuando genera dificultad de relaciones interpersonales especialmente con quienes el vínculo afectivo debiera ser más positivo ejemplo con la familia y los amigos.
+              p Cualquier tipo de consumo se considera problemático cuando deteriora la salud física y mental, cuando genera dificultad en las relaciones interpersonales, especialmente con quienes el vínculo afectivo debiera ser más positivo, por ejemplo con la familia y los amigos.
               p.mb-0 De otra parte, es importante comprender que cuando la dependencia tiene como característica principal no tener dominio sobre la sustancia, el individuo ya se está enfrentando a un problema o trastorno mental asociado al uso recurrente de sustancia psicoactivas.
             .col-lg-5
               figure

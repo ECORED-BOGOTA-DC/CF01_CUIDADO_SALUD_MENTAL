@@ -30,7 +30,7 @@
                 img(src='@/assets/curso/tema4/img2.png', style="width: 50px" ,alt='').m-auto
             .col
               p #[b Biológicos]
-              p.mb-0 sexo, edad, cociente intelectual, temperamento, genética.
+              p.mb-0 Sexo, edad, cociente intelectual, temperamento, genética.
       .col-lg.bg-c11.m-2
         .p-4
           .row.align-items-center
@@ -39,7 +39,7 @@
                 img(src='@/assets/curso/tema4/img3.png', style="width: 50px" ,alt='').m-auto
             .col
               p #[b Ambientales]
-              p.mb-0 factores perinatales, nivel de educación, familia y relaciones sociales y acontecimientos estresantes.
+              p.mb-0 Factores perinatales, nivel de educación, familia y relaciones sociales y acontecimientos estresantes.
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
@@ -63,11 +63,36 @@
             td(colspan="3") #[b Ambientales]
           tr
             td(style="vertical-align: initial") Factores perinatales
-            td(style="vertical-align: initial") Tóxicos, fármacos o enfermedades durante el embarazo. Complicaciones en el parto. Bajo peso al nacer. Prematuridad. Malnutrición. Enfermedades en el primer año de vida.
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Tóxicos, fármacos o enfermedades durante el embarazo.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Complicaciones en el parto.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Bajo peso al nacer.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Prematuridad.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Malnutrición.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Enfermedades en el primer año de vida.
             td(style="vertical-align: initial") Embarazo, parto y primer año de vida sin complicaciones significativas.
           tr
             td(style="vertical-align: initial") Nivel de educación
-            td(style="vertical-align: initial") Bajo. Fracaso académico
+            td(style="vertical-align: initial") Bajo. Fracaso académico.
             td(style="vertical-align: initial") Normal-alto. Buen rendimiento académico.
           tr
             td Acontecimientos estresantes
@@ -75,16 +100,114 @@
             td No.
           tr
             td(style="vertical-align: initial") Respuesta ante un estresante
-            td(style="vertical-align: initial") Ignora el problema. Evita afrontarlo. Solo pide alivio para la angustia o la tristeza.
-            td(style="vertical-align: initial") Afronta los problemas, buena estrategia de resolución de conflictos. Lo asume y se adapta.
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Ignora el problema.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Evita afrontarlo.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Solo pide alivio para la angustia o la tristeza.
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Afronta los problemas, buena estrategia de resolución de conflictos.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Lo asume y se adapta.
           tr
             td(style="vertical-align: initial") Familia y amigos
-            td(style="vertical-align: initial") Bajo apoyo social. Retraimiento social. Negligencia en el cuidado por parte de las figuras de referencia. Abuso, acoso. Estilo educativo sobreprotector u hostil.
-            td(style="vertical-align: initial") Ofrecen apoyo y seguridad. Buena comunicación. Cuidan y estimulan. Buen rendimiento académico. Estilo educativo democrático o asertivo
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Bajo apoyo social.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Retraimiento social.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Negligencia en el cuidado por parte de las figuras de referencia.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Abuso, acoso.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Estilo educativo sobreprotector u hostil.
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Ofrecen apoyo y seguridad.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Buena comunicación.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Cuidan y estimulan.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Buen rendimiento académico.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Estilo educativo democrático o asertivo.
           tr
             td(style="vertical-align: initial") Circunstancias sociodemográficas
-            td(style="vertical-align: initial") Pobreza. Marginación, desigualdad. Falta de recursos socio sanitarios básicos. Falta de recursos de la comunidad. Inseguridad (conflictos, guerras).
-            td(style="vertical-align: initial") Integración y justicia social. Ambiente que proporciona el crecimiento. Pertenencia a un grupo o una comunidad.
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Pobreza.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Marginación, desigualdad.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Falta de recursos socio sanitarios básicos.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Falta de recursos de la comunidad.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Inseguridad (conflictos, guerras).
+            td(style="vertical-align: initial")
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Integración y justicia social.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Ambiente que proporciona el crecimiento.
+                li.d-flex
+                  i.fas.fa-check(style="color: #FF8182")
+                  |
+                  p.mb-0 Pertenencia a un grupo o una comunidad.
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
@@ -122,6 +245,7 @@
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img5.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
+    p.mb-5 Los factores de riesgo psicosocial pueden clasificarse en:
     .row.align-items-center.mb-5
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
         figure
@@ -135,7 +259,7 @@
           .row(titulo="Carga y ritmo de trabajo (desempeño)")
             .col-12
               .p-4
-                p.mb-0 Se refiere a la calidad, cantidad y el ritmo de trabajo por ejemplo la sobrecarga laboral, plazos para ejecutar las tareas que no son viables entre otros.
+                p.mb-0 Se refiere a la calidad, cantidad y el ritmo de trabajo, por ejemplo la sobrecarga laboral, plazos para ejecutar las tareas que no son viables, entre otros.
           .row(titulo="Tiempo de trabajo (registro de la jornada laboral)")
             .col-12
               .p-4
@@ -143,19 +267,19 @@
           .row(titulo="Participación y control")
             .col-12
               .p-4
-                p.mb-0 Tiene que ver a la autonomía que tiene el trabajador en relación con la organización, planeación y ejecución de las actividades, lo que puede generar niveles de estrés elevados que deterioran su salud mental y física.
+                p.mb-0 Tiene que ver con la autonomía que tiene el trabajador en relación con la organización, planeación y ejecución de las actividades, lo que puede generar niveles de estrés elevados que deterioran su salud mental y física.
           .row(titulo="Desarrollo profesional")
             .col-12
               .p-4
-                p.mb-0 Está relacionada a la satisfacción que el trabajador tiene con el plan de incentivos que posee la organización para que pueda crecer profesionalmente dentro de la empresa a la reciprocidad entre lo que aporta para la organización y lo que esta le da.
-          .row(titulo="Relaciones interpersonales/apoyo social")
+                p.mb-0 Está relacionado con la satisfacción que el trabajador tiene con el plan de incentivos que posee la organización para que pueda crecer profesionalmente dentro de la empresa a la reciprocidad entre lo que aporta para la organización y lo que esta le da.
+          .row(titulo="Relaciones interpersonales / apoyo social")
             .col-12
               .p-4
-                p.mb-0 Tiene que ver con las relaciones que se dan en el ambiente laboral y las situaciones en que estas suceden, se refieren a aquellas que dan lugar en el sitio de trabajo como con los compañeros, jefes o subalternos y con actores externos como los proveedores y clientes de la empresa de estas relaciones es que surgen situaciones como por ejemplo el acoso laboral, el acoso sexual y de cómo son gestionadas por la empresa.
+                p.mb-0 Tiene que ver con las relaciones que se dan en el ambiente laboral y las situaciones en que estas suceden. Se refieren a aquellas que tienen lugar en el sitio de trabajo como con los compañeros, jefes o subalternos y con actores externos como los proveedores y clientes de la empresa. De estas relaciones es que surgen situaciones como por ejemplo el acoso laboral, el acoso sexual y se tiene en cuenta cómo son gestionadas por la empresa.
           .row(titulo="Equipos de trabajo y exposición a otros riesgos")
             .col-12
               .p-4
-                p.mb-0 Se refiere a los equipos maquinarias, elementos de trabajo que posee el trabajador para desempeñar su labor, por ejemplo, un trabajador de oficina que no posee una silla ergonómica puede generar deterioro en su salud.
+                p.mb-0 Se refiere a los equipos, maquinarias y elementos de trabajo que posee el trabajador para desempeñar su labor, por ejemplo, un trabajador de oficina que no posee una silla ergonómica puede presentar deterioro en su salud.
           .row(titulo="Roles en el equipo de trabajo")
             .col-12
               .p-4
