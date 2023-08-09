@@ -16,7 +16,7 @@
             p El concepto “estado de bienestar” implica connotaciones no tan exactas que muestran pasividad, accidentalidad, subjetividad, es decir, algo que le ocurre al sujeto y que le afecta de manera externa, que es parte de sus vivencias y por tanto carece de objetividad, de tal forma que este llamado estado de “bienestar psicológico” aparentemente señala la situación satisfactoria en que está el sujeto en un momento dado.
     p.mb-5(data-aos="fade-right") Teniendo en cuenta lo anterior, #[b.txt-c1 “simboliza el cúmulo de procedimientos que hacen parte de la psiquis humana en donde se pueden desenfundar aspectos de estructura y de dinámica que se convierten en supuestos teóricos que tienen como objetivo explicar esta parte de la realidad del ser humano”]; dicho de otra manera la psiquis del ser humano puede estar dividida en:
     .row.justify-content-center.mb-3(data-aos="fade-up")
-      .col-9.col-md-5.col-lg.m-2
+      .col-10.col-md-5.col-xl.m-2
         .row
           .col-12.px-0(style="z-index:2")
             figure
@@ -25,7 +25,7 @@
             .p-4
               p #[b Aspectos cognitivos]
               p.mb-0 Están dados por el conjunto de funciones neuropsicológicas (dan lugar a las conceptualizaciones) ejemplo el autoconcepto o idea que tiene de sí mismo.
-      .col-9.col-md-5.col-lg.m-2
+      .col-10.col-md-5.col-xl.m-2
         .row
           .col-12.px-0(style="z-index:2")
             figure
@@ -34,7 +34,7 @@
             .p-4
               p #[b Aspectos afectivos]
               p.mb-0 Están relacionados con el estado de ánimo, las emociones y las pulsiones.
-      .col-9.col-md-5.col-lg.m-2
+      .col-10.col-md-5.col-xl.m-2
         .row
           .col-12.px-0(style="z-index:2")
             figure
@@ -43,7 +43,7 @@
             .p-4
               p #[b Aspectos ejecutivos]
               p.mb-0 Tienen que ver con el autogobierno, la autodeterminación, la interacción y la forma de establecer relaciones interpersonales.
-      .col-9.col-md-5.col-lg.m-2
+      .col-10.col-md-5.col-xl.m-2
         .row
           .col-12.px-0(style="z-index:2")
             figure
@@ -77,7 +77,7 @@
           img(src='@/assets/curso/tema1/img5.png', style="width: 250px" ,alt='Imagen decorativa').m-auto
       .col-lg-8(data-aos="fade-left")
         p Se dice que existe Salud Mental Positiva (SMP), cuando el ser humano encuentra balance entre lo que espera de la vida y lo que la vida le ofrece, es decir, la felicidad necesita de la interacción del individuo con el medio ambiente y por tanto tiene en cuenta el instinto, la valoración, la singularidad del individuo y no necesariamente depende de su estado emocional o de sus eventualidades.
-        p.mb-0 De acuerdo a lo anterior, se puede inferir que no hay un ser humano que pueda decir “estoy sano” pues el ser humano tiene en esencia la enfermedad y la salud que se expresan según a una condición específica; se trata del equilibrio que debe existir entre el componente biológico y ambiental porque son componentes que están íntimamente relacionados, de tal forma que si hay fracaso en el biológico aparecen trastornos que hoy día son explicados a través de las neurociencias.
+        p.mb-0 De acuerdo a lo anterior, se puede inferir que no hay un ser humano que pueda decir “estoy sano” pues el ser humano tiene en esencia la enfermedad y la salud que se expresan según una condición específica; se trata del equilibrio que debe existir entre el componente biológico y ambiental porque son componentes que están íntimamente relacionados, de tal forma que si hay fracaso en el biológico aparecen trastornos que hoy día son explicados a través de las neurociencias.
     p.mb-5(data-aos="fade-right") De tal manera, que pueda darse un tratamiento o una intervención ajustadas a la necesidad.
     .row.mb-5(data-aos="fade-down")
       .col-lg-6.mb-4.mb-lg-0
@@ -150,7 +150,7 @@
         figure
           img(src='@/assets/curso/tema1/img7.png', style="width: 550px" ,alt='Imagen decorativa').m-auto
       .col-lg-7(data-aos="fade-left")
-        p.mb-0 Cuando se hace referencia a Salud Mental Comunitaria se deben tener en cuenta todas aquellas acciones encaminadas a realizar atención profesional, fuera de hospitales psiquiátricos, clínicas, y hospitales generales. En realidad, lo que llamamos #[b.txt-c1 “salud comunitaria”] es el programa de salud pública local, planificado con base a los problemas y necesidades de cada comunidad ejecutando con la participación de la comunidad. Se trata de una estrategia para aplicar localmente en los programas de salud pública, y no de una especialidad nueva de la salud pública menos de la medicina.
+        p.mb-0 Cuando se hace referencia a Salud Mental Comunitaria se deben tener en cuenta todas aquellas acciones encaminadas a realizar atención profesional, fuera de hospitales psiquiátricos, clínicas, y hospitales generales. En realidad, lo que llamamos #[b.txt-c1 “salud comunitaria”] es el programa de salud pública local, planificado con base en los problemas y necesidades de cada comunidad ejecutando con la participación de la comunidad. Se trata de una estrategia para aplicar localmente en los programas de salud pública, y no de una especialidad nueva de la salud pública menos de la medicina.
     p.mb-5(data-aos="fade-right") Teniendo como base lo anterior, se puede concluir que cuando se infiere sobre Salud Mental Comunitaria es necesario comprender que se trata de todos los planes y programas de promoción y prevención basados en los lineamientos y en las políticas públicas de cada país, y está basada en principios fundamentales como:
     .row.bg-c4.mb-5(data-aos="fade-left")
       .col-12

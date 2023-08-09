@@ -94,9 +94,10 @@
   background-color: #FFD9D9
 
 .bloque-texto-a.color-secundario
-  h2
-    @media screen and ( max-width: $bp-max-lg )
-      color: #f7f7f7
+  background-color: #8EDEE0
+.bloque-texto-a.color-secundario:before
+  @media screen and ( max-width: $bp-max-lg )
+    background-color: #8EDEE0
 
 .bg
   &-c1
@@ -106,11 +107,11 @@
     background-size: contain
   &-c2
     position: relative
-    top: -20px
+    top: -25px
     background-color: #FFC0C0
     border-bottom-left-radius: 25px
     border-bottom-right-radius: 25px
-    height: 250px
+    height: 270px
   &-c3
     background-image: url(../assets/curso/tema1/img1.svg)
     background-repeat: no-repeat

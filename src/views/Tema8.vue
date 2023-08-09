@@ -109,7 +109,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img3.png', style="width: 80px" ,alt='').m-auto
+              img(src='@/assets/curso/tema8/img15.svg', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Confusión.]
@@ -117,7 +117,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img4.png', style="width: 80px" ,alt='').m-auto
+              img(src='@/assets/curso/tema8/img16.svg', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Delirio.]
@@ -125,7 +125,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img5.png', style="width: 80px" ,alt='').m-auto
+              img(src='@/assets/curso/tema8/img17.svg', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Alucinaciones.]
@@ -133,7 +133,7 @@
         .row.align-items-center
           .col-auto(style="z-index: 2")
             figure
-              img(src='@/assets/curso/tema8/img6.png', style="width: 80px" ,alt='').m-auto
+              img(src='@/assets/curso/tema8/img18.svg', style="width: 80px" ,alt='').m-auto
           .col.bg-c14(style="z-index: 1")
             .p-4
               p.mb-0.ms-1 #[b Ánimo extremo.]

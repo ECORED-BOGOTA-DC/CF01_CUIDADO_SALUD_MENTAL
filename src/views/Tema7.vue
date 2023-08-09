@@ -48,7 +48,7 @@
           li.d-flex
             i.fas.fa-check-circle(style="color: #FF8182")
             |
-            p.mb-0 Desánimo de las actividades que solía disfrutar.
+            p.mb-0 Desánimo en las actividades que solía disfrutar.
     p.mb-5(data-aos="fade-right") Es posible pensar en una crisis como un desastre insospechado e inesperado, como un accidente automovilístico, un desastre natural u otro evento catastrófico. Sin embargo, las dificultades pueden variar sustancialmente en tipo y gravedad, entre ellas se encuentran:
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
