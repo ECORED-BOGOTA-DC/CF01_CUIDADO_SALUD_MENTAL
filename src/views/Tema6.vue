@@ -19,7 +19,7 @@
         .col-12
           .row.align-items-center
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Es aquella en la cual se puede evidenciar el abuso porque da lugar al daño físico, incluso a la muerte, es importante hacer claridad en que no siempre deja señales visibles (por ejemplo, el empujar a una persona es violencia física, o si por el contrario le dejan caer sobre la cara agua es un acto de violencia física). La violencia física también se puede presentar como el secuestro, los castigos físicos, impedir la movilidad del individuo, etc.
+              p.mb-0 Es aquella en la cual se puede evidenciar el abuso porque da lugar al daño físico, incluso a la muerte, es importante hacer claridad en que no siempre deja señales visibles (por ejemplo, el empujar a una persona es violencia física, o si por el contrario, le dejan caer sobre la cara agua es un acto de violencia física). La violencia física también se puede presentar como el secuestro, los castigos físicos, impedir la movilidad del individuo, etc.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema6/img1.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
@@ -35,7 +35,7 @@
         .col-12
           .row.align-items-center
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 En ocasiones es difícil detectarla, porque de acuerdo con el contexto, se terminan normalizando situaciones en donde aparentemente se está seduciendo a la víctima. Es una de las formas de violencia donde la mayoría de las víctimas pertenecen al género femenino y los agresores al masculino. Este tipo de violencia va desde la aparente seducción, a través de mensajes con contenido sexual hasta el uso de la fuerza para acceder a la víctima, la manipulación psicológica y el miedo.
+              p.mb-0 En ocasiones es difícil detectarla, porque de acuerdo con el contexto, se terminan normalizando situaciones en donde aparentemente se está seduciendo a la víctima. Es una de las formas de violencia donde la mayoría de las víctimas pertenecen al género femenino y los agresores al masculino. Este tipo de violencia va desde la aparente seducción, a través de mensajes con contenido sexual, hasta el uso de la fuerza para acceder a la víctima, la manipulación psicológica y el miedo.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema6/img2.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
@@ -51,7 +51,7 @@
         .col-12
           .row.align-items-center
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Se manifiesta de manera indirecta en la sociedad, a través de estrategias que imponen estereotipos y estructuras mentales, que son reforzados por la repetición y terminan siendo naturalizados. Es una de los tipos de violencia más enmascarados que afecta a un gran número de personas a la vez. Por ejemplo, el estereotipo de la figura esbelta y extremadamente delgada que casi nadie es capaz de alcanzar puede llevar a trastornos físicos y psicológicos en quienes no pueden encajar en este modelo.
+              p.mb-0 Se manifiesta de manera indirecta en la sociedad, a través de estrategias que imponen estereotipos y estructuras mentales, que son reforzados por la repetición y terminan siendo naturalizados. Es uno de los tipos de violencia más enmascarados que afecta a un gran número de personas a la vez. Por ejemplo, el estereotipo de la figura esbelta y extremadamente delgada que casi nadie es capaz de alcanzar puede llevar a trastornos físicos y psicológicos en quienes no pueden encajar en este modelo.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema6/img5.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
@@ -77,7 +77,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Laboral]
-              p.mb-0 Tiene que ver con todas las actuaciones que se dan en el entorno laboral en donde exista abuso de poder de parte del empleador, o desde la jerarquía que se maneje en el mismo o de quien posea autoridad de cualquier tipo. Se manifiesta de manera espontánea o evasiva, de tal modo que dañan la dignidad e integridad del empleado por medio de amenazas, malos tratos, acoso, insultos entre otros.
+              p.mb-0 Tiene que ver con todas las actuaciones que se dan en el entorno laboral en donde exista abuso de poder de parte del empleador, o desde la jerarquía que se maneje en el mismo o de quien posea autoridad de cualquier tipo. Se manifiesta de manera espontánea o evasiva, de tal modo que dañan la dignidad e integridad del empleado por medio de amenazas, malos tratos, acoso, insultos, entre otros.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema6/img8.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
@@ -91,7 +91,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Obstétrica]
-              p.mb-0 Se refiere al trato deshumanizado antes, durante y después del nacimiento del bebé. Así mismo se ejerce violencia en variadas ocasiones en la atención post aborto, donde no se procede de forma inmediata, con oportunidad en la atención y no se preserva la confidencialidad. En toda eventualidad el personal de salud está en la obligación de ejercer respeto en el trato hacia de la mujer, procurar por la confidencialidad del suceso guardando el secreto profesional, velar por su salud y preguntarle para tomar decisiones acerca de los pasos y tratamientos a realizar, de lo contrario, se considera un acto violento.
+              p.mb-0 Se refiere al trato deshumanizado antes, durante y después del nacimiento del bebé. Así mismo se ejerce violencia en variadas ocasiones en la atención post aborto, donde no se procede de forma inmediata, con oportunidad en la atención y no se preserva la confidencialidad. En toda eventualidad, el personal de salud está en la obligación de ejercer respeto en el trato hacia la mujer, procurar por la confidencialidad del suceso guardando el secreto profesional, velar por su salud y preguntarle para tomar decisiones acerca de los pasos y tratamientos a realizar, de lo contrario, se considera un acto violento.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema6/img10.png', style="width: 500px" ,alt='Imagen decorativa').m-auto
@@ -127,7 +127,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema6/img14.png', style="width: 60px" ,alt='Imagen decorativa')
           p #[b La violencia se basa en el abuso de poder]
-          p.mb-0 Esta es la principal característica de la violencia, dado que las acciones violentas se dan hacia personas o grupos que tienen menos poder y sobre los cuales se ejerce la superioridad; tal es el caso de los niños, mujeres, adultos mayores, subordinados entre otros.
+          p.mb-0 Esta es la principal característica de la violencia, dado que las acciones violentas se dan hacia personas o grupos que tienen menos poder y sobre los cuales se ejerce la superioridad; tal es el caso de los niños, mujeres, adultos mayores, subordinados, entre otros.
 
 </template>
 

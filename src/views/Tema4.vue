@@ -271,7 +271,7 @@
           .row(titulo="Desarrollo profesional")
             .col-12
               .p-4
-                p.mb-0 Está relacionado con la satisfacción que el trabajador tiene con el plan de incentivos que posee la organización para que pueda crecer profesionalmente dentro de la empresa a la reciprocidad entre lo que aporta para la organización y lo que esta le da.
+                p.mb-0 Está relacionado con la satisfacción que el trabajador tiene con el plan de incentivos que posee la organización para que pueda crecer profesionalmente dentro de la empresa, a la reciprocidad entre lo que aporta para la organización y lo que esta le da.
           .row(titulo="Relaciones interpersonales / apoyo social")
             .col-12
               .p-4

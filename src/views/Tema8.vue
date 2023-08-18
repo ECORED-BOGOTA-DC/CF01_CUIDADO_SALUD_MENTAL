@@ -44,7 +44,7 @@
         .p-4
           h3.mb-0 Pero… ¿cómo se identifican estos signos y síntomas de alarma?
       .col
-        p.mb-0 Se hace necesario identificar cambios en los pensamientos, sentimientos y emociones, porque ellos varían de acuerdo al trastorno o enfermedad mental que el individuo está desarrollando; a continuación se relacionan algunos síntomas y signos que son fácilmente identificables y para los cuales no se hace necesario ser experto en el área de la psicología o la psiquiatría, en ocasiones basta con tener capacidad de observación y autoobservación si se trata de uno mismo.
+        p.mb-0 Se hace necesario identificar cambios en los pensamientos, sentimientos y emociones, porque ellos varían de acuerdo al trastorno o enfermedad mental que el individuo está desarrollando; a continuación, se relacionan algunos síntomas y signos que son fácilmente identificables y para los cuales no se hace necesario ser experto en el área de la psicología o la psiquiatría, en ocasiones basta con tener capacidad de observación y autoobservación si se trata de uno mismo.
     .row.justify-content-center.align-items-center.bg-c13.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -190,7 +190,7 @@
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema8/img4.svg', style="width: 400px" ,alt='Imagen decorativa').m-auto
-    p.mb-5(data-aos="fade-right") A continuación se relacionan algunas enfermedades mentales identificadas como prevalentes para nuestro país:
+    p.mb-5(data-aos="fade-right") A continuación, se relacionan algunas enfermedades mentales identificadas como prevalentes para nuestro país:
     TabsA.color-acento-contenido.mb-5(data-aos="fade-down")
       .tarjeta.color-acento-botones.p-4(titulo="Depresión unipolar")
         .row
@@ -223,7 +223,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema8/img9.svg', style="width: 250px" ,alt='Imagen decorativa').m-auto
-      .tarjeta.color-acento-botones.p-4(titulo="Consumo problemático de alcohol y otras sustancias psicoactivas")
+      .tarjeta.color-acento-botones.p-4(titulo="Consumo problemático de alcohol<br>y otras sustancias psicoactivas")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p Existen muchas formas de clasificar las sustancias psicoactivas dependiendo de su abordaje. A continuación, tres grandes grupos:

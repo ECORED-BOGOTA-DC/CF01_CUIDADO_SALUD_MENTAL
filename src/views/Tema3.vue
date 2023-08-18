@@ -52,7 +52,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img3.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
-      .tarjeta.color-acento-botones.p-4(titulo="Consumo de sustancias psicoactivas")
+      .tarjeta.color-acento-botones.p-4(titulo="Consumo de sustancias<br>psicoactivas")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 Los orígenes del consumo de sustancias psicoactivas son múltiples, se asocia a factores económicos, sociales, biológicos, psicológicos y culturales, de orden comunitario, familiar e individual. El consumo sustancias psicoactivas en la infancia y adolescencia daña el desarrollo cerebral, así mismo, su uso es una causa de riesgo considerable para la salud, lo cual se refleja principalmente en la pérdida de años vividos sin salud, en la mortalidad asociada a eventos como la violencia, enfermedades infecciosas (VIH/SIDA, hepatitis B y C) y crónicas como cirrosis, afecciones cardiovasculares, cáncer enfermedades mentales, entre otras, con efectos desproporcionados en poblaciones específicas como gestantes, habitantes de calle, personas privadas de la libertad y personas que se inyectan drogas.
@@ -84,7 +84,7 @@
         .row
           .col-lg-8.mb-4.mb-lg-0
             p Esta enfermedad genera un impacto importante en la salud mental de quienes la padecen, por la discapacidad que produce y el estigma y la discriminación que con frecuencia se asocia a ella.
-            p.mb-0 En el Plan Decenal de Salud Pública 2012-2021, la epilepsia fue visualizada en el componente "Prevención y atención integral a problemas y transtornos mentales y las diferentes formas de la violencia".
+            p.mb-0 En el Plan Decenal de Salud Pública 2012-2021, la epilepsia fue visualizada en el componente "Prevención y atención integral a problemas y trastornos mentales y las diferentes formas de la violencia".
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img6.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
@@ -107,9 +107,8 @@
       .py-4.py-md-5(titulo="Derechos" :icono="require('@/assets/curso/tema3/img3.svg')")
         .row.justify-content-center
           .col-lg-8.mb-4.mb-lg-0
-            p Reconoce y da interpretación de los sujetos individuales y colectivos como titulares de derechos. Examina el desarrollo de capacidades en las personas, familias y comunidades para el alcance de su bienestar físico, mental y social, ampliando sus libertades y posibilidades de elección para durar una vida plena de sentido, según el momento de curso de vida en el que se desarrollan, las características y condiciones poblacionales que los reconocen, y los territorios específicos que habitan y construyen subjetivamente. Asegurando, para todo ser humano, libertad, bienestar y dignidad.
-            p El despliegue fundamentado en derechos humanos tiene una estrecha relación con la salud mental, toda vez que dichos inconvenientes afectan la esperanza de vida, los años de instrucción esperados y el Ingreso Nacional Bruto per cápita, provocando resultados negativos y consecuencias de la pobreza; por otra parte, las personas con dificultades mentales deben confrontar numerosos obstáculos para el Ingreso a la educación.
-            p.mb-0 las conveniencias de empleo y otras fuentes de concepción de ingresos, debido a la señalación, exclusión y discriminación que históricamente han vivido.
+            p Reconoce y da interpretación de los sujetos individuales y colectivos como titulares de derechos. Examina el desarrollo de capacidades en las personas, familias y comunidades para el alcance de su bienestar físico, mental y social, ampliando sus libertades y posibilidades de elección para durar una vida plena de sentido, según el momento de curso de vida en el que se desarrollan, las características y condiciones poblacionales que los reconocen, y los territorios específicos que habitan y construyen subjetivamente, asegurando, para todo ser humano, libertad, bienestar y dignidad.
+            p El despliegue fundamentado en derechos humanos tiene una estrecha relación con la salud mental, toda vez que dichos inconvenientes afectan la esperanza de vida, los años de instrucción esperados y el Ingreso Nacional Bruto #[i per cápita], provocando resultados negativos y consecuencias de la pobreza; por otra parte, las personas con dificultades mentales deben confrontar numerosos obstáculos para el ingreso a la educación, a las conveniencias de empleo y otras fuentes de concepción de ingresos, debido a la señalación, exclusión y discriminación que históricamente han vivido.
           .col-lg-3
             figure
               img(src='@/assets/curso/tema3/img7.png', style="width: 150px" ,alt='Imagen decorativa').m-auto

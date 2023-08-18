@@ -20,7 +20,7 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Ver enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
-    p.mb-5(data-aos="fade-right") A continuación se reflejan algunas acciones, programas y políticas a tener en cuenta:
+    p.mb-5(data-aos="fade-right") A continuación, se reflejan algunas acciones, programas y políticas a tener en cuenta:
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
@@ -141,7 +141,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img3.png', style="width: 350px" ,alt='Imagen decorativa').m-auto
-      .tarjeta.color-acento-botones.p-4(titulo="Prevención de los trastornos mentales")
+      .tarjeta.color-acento-botones.p-4(titulo="Prevención de los trastornos<br>mentales")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p Se debe propender por el mejoramiento de la capacidad de afrontamiento individual, familiar, colectivo e institucional, y emprender acciones que gestionen los riesgos en salud mental en el contexto en donde cada individuo se desarrolla.

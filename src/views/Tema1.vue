@@ -237,7 +237,6 @@
                   .col-12
                     .p-4
                       p.mb-0 En enero de 2005 se celebró en Helsinki la #[b #[i Conferencia Ministerial de la OMS para la salud Mental]] la cual se conoce como #[b #[i La Declaración de Helsinki]]; de ella se desencadena un plan de acción y el #[b #[i Libro verde para mejorar la salud mental]], allí se indica la relevancia de los derechos humanos y la supresión del vestigio y la exclusión y se incluye normatividad.
-                      p.mb-0 En enero de 2005 se celebró en Helsinki la #[b #[i Conferencia Ministerial de la OMS para la salud Mental]] la cual se conoce como #[b #[i La Declaración de Helsinki]]; de ella se desencadena un plan de acción y el #[b #[i Libro verde para mejorar la salud mental]], allí se indica la relevancia de los derechos humanos y la supresión del vestigio y la exclusión y se incluye normatividad.
                 .row(titulo="Principio 8")
                   .col-12
                     .p-4
